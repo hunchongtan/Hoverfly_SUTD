@@ -1,0 +1,2 @@
+0 calculator
+1 no calculator
