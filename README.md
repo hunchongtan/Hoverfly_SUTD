@@ -51,3 +51,6 @@ Name: any_name_for_your_app, Select script, description: any_description, about 
 <img src="https://github.com/hunchongtan/DAI_AID/assets/87000020/dd65e351-cd1a-4f25-87ff-b0c73b4e4719" height="150" />
 <br>
 <br>
+
+### Run
+Run the codes in the jupyter notebook!
