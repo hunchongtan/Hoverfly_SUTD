@@ -1,11 +1,15 @@
-,Fuselage,Wings,Engines,Landing gear,Flight controls,Passenger cabin,Fuel system,Hydraulic systems,Environmental control systems,Safety systems and emergency exits
-Fuselage,X,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes
-Wings,Yes,X,No,No,No,No,Yes,No,No,Yes
-Engines,Yes,Yes,X,No,No,No,Yes,No,No,Yes
-Landing gear,Yes,Yes,No,X,No,No,No,No,No,Yes
-Flight controls,No,No,No,No,X,No,No,No,No,No
-Passenger cabin,No,Yes,No,No,No,X,No,No,No,No
-Fuel system,Yes,No,No,No,No,No,X,No,No,Yes
-Hydraulic systems,No,No,No,No,No,No,No,X,No,No
-Environmental control systems,No,No,No,No,No,No,No,No,X,No
-Safety systems and emergency exits,Yes,Yes,No,Yes,No,No,Yes,No,No,X
+,fuselage,wings,engines,landing gear,tail,cockpit,cabin,windows,doors,flight control systems,avionics,electrical systems,hydraulic systems,fuel systems
+fuselage,X,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+wings,Yes,X,No,No,No,Yes,No,No,No,Yes,No,No,Yes,Yes
+engines,Yes,No,X,No,No,No,No,No,No,No,No,Yes,Yes,Yes
+landing gear,Yes,No,No,X,No,No,No,No,Yes,No,No,Yes,Yes,No
+tail,Yes,No,No,No,X,Yes,No,No,Unsure,Yes,No,No,Yes,No
+cockpit,Yes,Yes,No,Yes,Yes,X,No,No,No,Yes,No,No,Yes,Yes
+cabin,Yes,Yes,No,No,Yes,Yes,X,No,Unsure,No,No,No,No,No
+windows,Yes,No,No,No,No,No,No,X,No,No,No,No,No,No
+doors,Yes,No,No,No,No,No,No,No,X,No,No,No,Yes,No
+flight control systems,Yes,Yes,No,No,Yes,No,No,No,No,X,No,No,Yes,No
+avionics,No,No,No,No,No,Yes,No,No,No,No,X,No,No,No
+electrical systems,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,X,No,No
+hydraulic systems,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,X,No
+fuel systems,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,X

@@ -1,11 +1,19 @@
-,fuselage,wings,engines,windows,forward pressure bulkhead,cargo doors,passenger doors,safety caps,copper wires,airframe
-fuselage,X,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes
-wings,Yes,X,No,No,No,No,Yes,No,No,Yes
-engines,Yes,No,X,No,No,No,Yes,No,No,Yes
-windows,Yes,Yes,No,X,No,No,No,No,No,Yes
-forward pressure bulkhead,No,No,No,No,X,No,No,No,No,No
-cargo doors,No,Yes,No,No,No,X,No,No,No,No
-passenger doors,Yes,No,No,No,No,No,X,No,No,Yes
-safety caps,No,No,No,No,No,No,No,X,No,No
-copper wires,No,No,No,No,No,No,No,No,X,No
-airframe,Yes,Yes,No,Yes,No,No,Yes,No,No,X
+,fuselage,wings,engines,cockpit,landing gear,tail,windows,seats,cabin doors,cargo doors,flight control systems,electrical systems,avionics,air conditioning systems,lighting systems,galley,lavatories,emergency equipment
+fuselage,X,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No
+wings,Yes,X,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No
+engines,Yes,No,X,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No
+cockpit,Yes,Yes,No,X,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No
+landing gear,Yes,No,No,Yes,X,No,No,No,No,No,No,Yes,No,No,No,No,No,No
+tail,Yes,No,No,Yes,No,X,No,No,No,No,Yes,No,No,No,No,No,No,No
+windows,Yes,No,No,No,No,No,X,No,No,No,No,No,No,No,No,No,No,No
+seats,Yes,No,No,No,No,No,No,X,No,No,No,No,No,No,No,No,No,No
+cabin doors,No,No,No,No,No,No,No,No,X,No,No,No,No,No,No,No,No,No
+cargo doors,No,No,No,No,No,No,No,No,No,X,No,No,No,No,No,No,No,No
+flight control systems,Yes,Yes,No,No,No,Yes,No,No,No,No,X,No,No,No,No,No,No,No
+electrical systems,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,X,No,Yes,No,Yes,No,No
+avionics,No,No,No,Yes,No,No,No,No,No,No,No,No,X,No,No,No,No,No
+air conditioning systems,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,X,No,No,No,No
+lighting systems,No,No,No,No,No,No,No,No,No,No,No,No,No,No,X,No,No,No
+galley,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,X,No,No
+lavatories,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,X,No
+emergency equipment,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,X

@@ -1,11 +1,10 @@
-,Fuselage,Wings,Tailplanes,Engines,Fasteners,Nose contour,Raked wingtips,Engine nacelles,Chevrons,Cabin windows
-Fuselage,X,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes
-Wings,Yes,X,No,No,No,No,Yes,No,No,Yes
-Tailplanes,Yes,No,X,No,No,No,Yes,No,No,Yes
-Engines,Yes,Yes,No,X,No,No,No,No,No,Yes
-Fasteners,No,No,No,No,X,No,No,No,No,No
-Nose contour,No,Yes,No,No,No,X,No,No,No,No
-Raked wingtips,Yes,No,No,No,No,No,X,No,No,Yes
-Engine nacelles,No,No,No,No,No,No,No,X,No,No
-Chevrons,No,No,No,No,No,No,No,No,X,No
-Cabin windows,Yes,Yes,No,Yes,No,No,Yes,No,No,X
+,fuselage,wings,tailplanes,engines,fasteners,nose contour,raked wingtips,engine nacelles,chevrons
+fuselage,X,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+wings,Yes,X,No,No,Yes,No,No,Yes,No
+tailplanes,Yes,Yes,X,No,Yes,No,No,No,No
+engines,Yes,No,No,X,Yes,No,No,No,No
+fasteners,Yes,Yes,Yes,Yes,X,No,No,Yes,No
+nose contour,No,Unsure,No,No,No,X,No,No,No
+raked wingtips,No,No,No,No,No,No,X,No,No
+engine nacelles,Yes,No,No,Yes,Yes,No,No,X,No
+chevrons,No,No,No,No,No,No,No,No,X
