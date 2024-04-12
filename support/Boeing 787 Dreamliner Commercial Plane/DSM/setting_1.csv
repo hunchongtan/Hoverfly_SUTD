@@ -1,11 +1,11 @@
-,Carbon fiber reinforced plastic,Chevrons,Dimmable windows,Wings,Engines,Titanium parts,Safety caps,Copper wires,Platinum material,Battery
-Carbon fiber reinforced plastic,X,,,,,,,,,
-Chevrons,,X,,,,,,,,
-Dimmable windows,,,X,,,,,,,
-Wings,,,,X,,,,,,
-Engines,,,,,X,,,,,
-Titanium parts,,,,,,X,,,,
-Safety caps,,,,,,,X,,,
-Copper wires,,,,,,,,X,,
-Platinum material,,,,,,,,,X,
-Battery,,,,,,,,,,X
+,fuselage,wings,engines,windows,forward pressure bulkhead,cargo doors,passenger doors,safety caps,copper wires,airframe
+fuselage,X,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes
+wings,Yes,X,No,No,No,No,Yes,No,No,Yes
+engines,Yes,No,X,No,No,No,Yes,No,No,Yes
+windows,Yes,Yes,No,X,No,No,No,No,No,Yes
+forward pressure bulkhead,No,No,No,No,X,No,No,No,No,No
+cargo doors,No,Yes,No,No,No,X,No,No,No,No
+passenger doors,Yes,No,No,No,No,No,X,No,No,Yes
+safety caps,No,No,No,No,No,No,No,X,No,No
+copper wires,No,No,No,No,No,No,No,No,X,No
+airframe,Yes,Yes,No,Yes,No,No,Yes,No,No,X

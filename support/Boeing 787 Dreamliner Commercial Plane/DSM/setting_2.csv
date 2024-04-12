@@ -1,11 +1,11 @@
-,composite structures,aluminum,titanium,steel,engines,wings,tailplanes,nose contour,wingtips,engine nacelles
-composite structures,X,,,,,,,,,
-aluminum,,X,,,,,,,,
-titanium,,,X,,,,,,,
-steel,,,,X,,,,,,
-engines,,,,,X,,,,,
-wings,,,,,,X,,,,
-tailplanes,,,,,,,X,,,
-nose contour,,,,,,,,X,,
-wingtips,,,,,,,,,X,
-engine nacelles,,,,,,,,,,X
+,Fuselage,Wings,Engines,Landing gear,Flight controls,Passenger cabin,Fuel system,Hydraulic systems,Environmental control systems,Safety systems and emergency exits
+Fuselage,X,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes
+Wings,Yes,X,No,No,No,No,Yes,No,No,Yes
+Engines,Yes,Yes,X,No,No,No,Yes,No,No,Yes
+Landing gear,Yes,Yes,No,X,No,No,No,No,No,Yes
+Flight controls,No,No,No,No,X,No,No,No,No,No
+Passenger cabin,No,Yes,No,No,No,X,No,No,No,No
+Fuel system,Yes,No,No,No,No,No,X,No,No,Yes
+Hydraulic systems,No,No,No,No,No,No,No,X,No,No
+Environmental control systems,No,No,No,No,No,No,No,No,X,No
+Safety systems and emergency exits,Yes,Yes,No,Yes,No,No,Yes,No,No,X

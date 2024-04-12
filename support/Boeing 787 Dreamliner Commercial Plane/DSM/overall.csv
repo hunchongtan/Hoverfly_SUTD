@@ -1,0 +1,6 @@
+,Cabin,Fuselage Exterior,Wings,Tail,Engine
+Cabin,X,Yes,No,Yes,No
+Fuselage Exterior,Yes,X,Yes,Yes,Yes
+Wings,No,Yes,X,No,No
+Tail,Unsure,Yes,Yes,X,No
+Engine,No,Yes,No,No,X

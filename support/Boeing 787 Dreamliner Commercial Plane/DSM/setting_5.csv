@@ -1,11 +1,11 @@
-,composite,aluminum,titanium,steel,other materials,engines,wingtips,nacelles,leading edges,tailplanes
-composite,X,,,,,,,,,
-aluminum,,X,,,,,,,,
-titanium,,,X,,,,,,,
-steel,,,,X,,,,,,
-other materials,,,,,X,,,,,
-engines,,,,,,X,,,,
-wingtips,,,,,,,X,,,
-nacelles,,,,,,,,X,,
-leading edges,,,,,,,,,X,
-tailplanes,,,,,,,,,,X
+,Fuselage,Wings,Engines,Tailplanes,Nose contour,Raked wingtips,Engine nacelles,Serrated edges (chevrons),Cabin windows,Fasteners
+Fuselage,X,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes
+Wings,Yes,X,No,No,No,No,Yes,No,No,Yes
+Engines,Yes,No,X,No,No,No,Yes,No,No,Yes
+Tailplanes,Yes,Yes,No,X,No,No,No,No,No,Yes
+Nose contour,No,No,No,No,X,No,No,No,No,No
+Raked wingtips,No,Yes,No,No,No,X,No,No,No,No
+Engine nacelles,Yes,No,No,No,No,No,X,No,No,Yes
+Serrated edges (chevrons),No,No,No,No,No,No,No,X,No,No
+Cabin windows,No,No,No,No,No,No,No,No,X,No
+Fasteners,Yes,Yes,No,Yes,No,No,Yes,No,No,X
