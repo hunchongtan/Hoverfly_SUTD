@@ -1,0 +1,11 @@
+,composite structures,aluminum,titanium,steel,engines,wings,tailplanes,nose contour,wingtips,engine nacelles
+composite structures,X,,,,,,,,,
+aluminum,,X,,,,,,,,
+titanium,,,X,,,,,,,
+steel,,,,X,,,,,,
+engines,,,,,X,,,,,
+wings,,,,,,X,,,,
+tailplanes,,,,,,,X,,,
+nose contour,,,,,,,,X,,
+wingtips,,,,,,,,,X,
+engine nacelles,,,,,,,,,,X

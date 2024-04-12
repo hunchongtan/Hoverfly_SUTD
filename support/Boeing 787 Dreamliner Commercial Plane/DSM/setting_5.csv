@@ -1,0 +1,11 @@
+,composite,aluminum,titanium,steel,other materials,engines,wingtips,nacelles,leading edges,tailplanes
+composite,X,,,,,,,,,
+aluminum,,X,,,,,,,,
+titanium,,,X,,,,,,,
+steel,,,,X,,,,,,
+other materials,,,,,X,,,,,
+engines,,,,,,X,,,,
+wingtips,,,,,,,X,,,
+nacelles,,,,,,,,X,,
+leading edges,,,,,,,,,X,
+tailplanes,,,,,,,,,,X
