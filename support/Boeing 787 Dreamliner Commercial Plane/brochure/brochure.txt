@@ -1,821 +1,0 @@
-<<<CAGE Code 81205 787 Airplane Characteristics for Airport Planning DOCUMENT NUMBER: D6-58333 REVISION: REV O REVISION DATE: February 2023 CONTENT OWNER: Boeing Commercial Airplanes All revisions to this document must be approved by the content owner before release.>>>
-<<<Not Subject to US Export Administration Regulations (EAR), (15 C.F.R.>>>
-<<<Parts 730-774) or US International Traffic in Arms Regulations (ITAR), (22 C.F.R.>>>
-<<<Parts 120-130).>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<Revision Record O December 2022 Section 6: Inlet Hazard Areas, all models Section 7: ACR Information, all models N October 2021 All sections: Standardize format, titles, notes.>>>
-<<<Section 2: Update ground clearances.>>>
-<<<Section 3: Update performance data.>>>
-<<<Section 4: Update turn radius data.>>>
-<<<Section 5: Update servicing arrangements and turntime analysis.>>>
-<<<Section 7: Update landing gear loading on pavement data.>>>
-<<<M March 2018 Update 787-10 data.>>>
-<<<All L December 2015 Initial release of 787-10 data.>>>
-<<<All K November 2014 All J March 2014 All H October 2012 Table of Contents Pages 5-31, 44-60 G July 2012 All Revision Letter Revision Date Changes in This Revision Revision Letter Revision Date Changes in This Revision Revision Letter Revision Date Changes in This Revision Revision Letter Revision Date Changes in This Revision Revision Letter Revision Date Changes in This Revision Revision Letter Revision Date Changes in This Revision Revision Letter Revision Date Changes in This Revision Revision Letter Revision Date Changes in This Revision REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<ii   Revision Letter Revision Date Changes in This Revision Revision Letter Revision Date Changes in This Revision Revision Letter Revision Date Changes in This Revision Revision Letter Revision Date Changes in This Revision Revision Letter Revision Date Changes in This Revision Revision Letter Revision Date Changes in This Revision Revision Letter Revision Date Changes in This Revision F December 2011 All E May 2011 Pages 3, 55 D December 2010 Page 100 C July 2010 Pages 52-104 B December 2009 Pages i-ii, 7, 21-36, 75-98 A February 2008 All NEW April 2006 All REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<iii  Table of Contents 1.0 SCOPE AND INTRODUCTION ........................................................................... 1-1 1.1 SCOPE .............................................................................................................. 1-1 1.2 INTRODUCTION ............................................................................................ 1-2 1.3 A BRIEF DESCRIPTION OF THE 787 FAMILY OF AIRPLANES ............. 1-3 1.4 CONVERSION FACTORS .............................................................................. 1-4 2.0 AIRPLANE DESCRIPTION.................................................................................. 2-1 2.1 GENERAL CHARACTERISTICS .................................................................. 2-1 2.1.1 General Characteristics: Model 787-8 ................................................... 2-2 2.1.2 General Characteristics: Model 787-9 ................................................... 2-3 2.1.3 General Characteristics: Model 787-10 ................................................. 2-4 2.2 GENERAL DIMENSIONS .............................................................................. 2-5 2.2.1 General Dimensions: Model 787-8 ........................................................ 2-5 2.2.2 General Dimensions: Model 787-9 ........................................................ 2-6 2.2.3 General Dimensions: Model 787-10 ...................................................... 2-7 2.3 GROUND CLEARANCES .............................................................................. 2-8 2.3.1 Ground Clearances: Model 787-8 .......................................................... 2-8 2.3.2 Ground Clearances: Model 787-9 .......................................................... 2-9 2.3.3 Ground Clearances: Model 787-10 ...................................................... 2-10 INTERIOR ARRANGEMENTS .................................................................... 2-11 Interior Arrangements - Typical: Model 787-8, 787-9, 787-10 ........... 2-11 2.5 CABIN CROSS SECTIONS .......................................................................... 2-12 2.5.1 Cabin Cross-Sections: Model 787-8, 787-9, 787-10 ............................ 2-12 2.6 LOWER CARGO COMPARTMENTS ......................................................... 2-13 2.4.1 2.4 2.6.1 Lower Cargo Compartments: Model 787-8, Containers and Bulk Cargo ........................................................................................... 2-13 2.6.2 Lower Cargo Compartments: Model 787-9, Containers and Bulk Cargo ........................................................................................... 2-14 2.6.3 Lower Cargo Compartments: Model 787-10, Containers and Bulk Cargo ........................................................................................... 2-15 2.7 DOOR CLEARANCES .................................................................................. 2-16 2.7.1 Door Locations: Model 787-8, 787-9, 787-10, Passenger and Cargo Doors ......................................................................................... 2-16 2.7.2 Door Clearances: Model 787-8, 787-9, 787-10, Main Deck Entry and Service Doors ................................................................................ 2-17 2.7.3 Door Clearances: Model 787-8, 787-9, 787-10, Lower Deck Cargo Door (Forward & Aft) ............................................................... 2-18 2.7.4 Door Clearances: Model 787-8, 787-9, 787-10, Bulk Cargo Door ...... 2-19 3.0 AIRPLANE PERFORMANCE .............................................................................. 3-1 3.1 GENERAL INFORMATION ........................................................................... 3-1 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<iv  3.2 PAYLOAD/RANGE FOR LONG RANGE CRUISE ..................................... 3-2 3.3.2 3.2.3 3.2.2 3.3.1 3.2.1 3.3.3 Payload/Range for Long-Range Cruise: Model 787-8 (Typical Engines) ................................................................................... 3-2 Payload/Range for Long-Range Cruise: Model 787-9 (Typical Engines) ................................................................................... 3-3 Payload/Range for Long-Range Cruise: Model 787-10 (Typical Engines) ................................................................................... 3-4 3.3 FAA/EASA TAKEOFF RUNWAY LENGTH REQUIREMENTS ................ 3-5 FAA/EASA Takeoff Runway Length Requirements - Standard Day, Dry Runway: Model 787-8 (Typical Engines) .............................. 3-5 FAA/EASA TakeOff Runway Length Requirements - Standard Day + 27°F (STD + 15°C), Dry Runway: Model 787-8 (Typical Engines) ................................................................................... 3-6 FAA/EASA Takeoff Runway Length Requirements - Standard Day + 45°F (STD + 25°C), Dry Runway: Model 787-8 (Typical Engines) ................................................................................... 3-7 FAA/EASA Takeoff Runway Length Requirements - Standard Day + 61°F (STD + 34°C, Dry Runway): Model 787-8 (Typical Engines) ................................................................................... 3-8 FAA/EASA Takeoff Runway Length Requirements - Standard Day, Dry Runway: Model 787-8 (Hi-Thrust Engines) .......................... 3-9 FAA/EASA Takeoff Runway Length Requirements - Standard Day + 27°F (STD + 15°C), Dry Runway: Model 787-8 (Hi-Thrust Engines) ................................................................................................ 3-10 FAA/EASA Takeoff Runway Length Requirements - Standard Day + 45°F (STD + 25°C), Dry Runway: Model 787-8 (Hi-Thrust Engines) ................................................................................................ 3-11 FAA/EASA Takeoff Runway Length Requirements - Standard Day + 61°F (STD + 34°C), Dry Runway: Model 787-8 (Hi-Thrust Engines) ................................................................................................ 3-12 FAA/EASA Takeoff Runway Length Requirements - Standard Day, Dry Runway: Model 787-9 (Typical Engines) ............................ 3-13 3.3.5 3.3.4 3.3.9 3.3.7 3.3.6 3.3.8 3.3.10 FAA/EASA Takeoff Runway Length Requirements - Standard Day + 27°F (STD + 15°C), Dry Runway: Model 787-9 (Typical Engines) ................................................................................. 3-14 3.3.11 FAA/EASA Takeoff Runway Length Requirements - Standard Day + 45°F (STD + 25°C), Dry Runway: Model 787-9 (Typical Engines) ................................................................................. 3-15 3.3.12 FAA/EASA Takeoff Runway Length Requirements - Standard Day + 61°F (STD + 34°C), Dry Runway: Model 787-9 (Typical Engines) ................................................................................. 3-16 3.3.13 FAA/EASA Takeoff Runway Length Requirements - Standard Day, Dry Runway: Model 787-9, (Hi-Thrust Engines) ....................... 3-17 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<v  3.3.14 FAA/EASA Takeoff Runway Length Requirements - Standard Day + 27°F (STD + 15°C), Dry Runway: Model 787-9, (Hi-Thrust Engines) ............................................................................. 3-18 3.3.15 FAA/EASA Takeoff Runway Length Requirements - Standard Day + 45°F (STD + 25°C), Dry Runway: Model 787-9, (Hi-Thrust Engines) ............................................................................. 3-19 3.3.16 FAA/EASA Takeoff Runway Length Requirements - Standard Day + 61°F (STD + 34°C), Dry Runway: Model 787-9, (Hi-Thrust Engines) ............................................................................. 3-20 3.3.17 FAA/EASA Takeoff Runway Length Requirements - Standard Day, Dry Runway: Model 787-10 (Typical Engines) .......................... 3-21 3.3.18 FAA/EASA Takeoff Runway Length Requirements - Standard Day + 27°F (STD + 15°C), Dry Runway: Model 787-10 (Typical Engines) ................................................................................. 3-22 3.3.19 FAA/EASA Takeoff Runway Length Requirements - Standard Day + 45°F (STD + 25°C), Dry Runway: Model 787-10 (Typical Engines) ................................................................................. 3-23 3.3.20 FAA/EASA Takeoff Runway Length Requirements - Standard Day + 61°F (STD + 34°C), Dry Runway: Model 787-10 (Typical Engines) ................................................................................. 3-24 3.3.21 FAA/EASA Takeoff Runway Length Requirements - Standard Day, Dry Runway: Model 787-10 (Hi-Thrust Engines) ...................... 3-25 3.3.22 FAA/EASA Takeoff Runway Length Requirements - Standard Day + 27°F (STD + 15°C), Dry Runway: Model 787-10 (Hi- Thrust Engines) .................................................................................... 3-26 3.3.23 FAA/EASA Takeoff Runway Length Requirements - Standard Day + 45°F (STD + 25°C), Dry Runway: Model 787-10 (Hi- Thrust Engines) .................................................................................... 3-27 3.3.24 FAA/EASA Takeoff Runway Length Requirements - Standard 3.4.2 3.4.1 Day + 61°F (STD + 34°C), Dry Runway: Model 787-10 (Hi- Thrust Engines) .................................................................................... 3-28 3.4 FAA/EASA LANDING RUNWAY LENGTH REQUIREMENTS .............. 3-29 FAA/EASA Landing Runway Length Requirements – Flaps 30: Model 787-8 (All Engines) .................................................................. 3-29 FAA/EASA Landing Runway Length Requirements – Flaps 25: Model 787-8 (All Engines) .................................................................. 3-30 FAA/EASA Landing Runway Length Requirements – Flaps 30: Model 787-9 (All Engines) .................................................................. 3-31 FAA/EASA Landing Runway Length Requirements – Flaps 25: Model 787-9 (All Engines) .................................................................. 3-32 FAA/EASA Landing Runway Length Requirements – Flaps 30: Model 787-10 (All Engines) ................................................................ 3-33 FAA/EASA Landing Runway Length Requirements – Flaps 25: Model 787-10 (All Engines) ................................................................ 3-34 3.4.4 3.4.3 3.4.5 3.4.6 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<vi  4.0 GROUND MANEUVERING ................................................................................ 4-1 4.1 GENERAL INFORMATION ........................................................................... 4-1 4.2 TURNING RADII ............................................................................................ 4-2 4.2.1 Turning Radii – No Slip Angle: Model 787-8 ....................................... 4-2 4.2.2 Turning Radii – No Slip Angle: Model 787-9 ....................................... 4-3 4.2.3 Turning Radii – No Slip Angle: Model 787-10 ..................................... 4-4 4.3 CLEARANCE RADII: MODEL 787-8, 787-9, 787-10 ................................... 4-5 4.4 VISIBILITY FROM COCKPIT IN STATIC POSITION................................ 4-6 4.4.1 Visibility from Cockpit in Static Position: Model 787-8, 787-9, 787-10 .................................................................................................... 4-6 4.5 RUNWAY AND TAXIWAY TURNPATHS .................................................. 4-7 4.5.1 Runway and Taxiway Turnpaths - Runway-to-Taxiway, More Than 90 Degree Turn: Model 787-8 ...................................................... 4-7 4.5.2 Runway and Taxiway Turnpaths - Runway-to-Taxiway, 90 Degree Turn: Model 787-8 ..................................................................... 4-8 4.5.3 Runway and Taxiway Turnpaths - Taxiway-to-Taxiway, 90 Degree Turn: Model 787-8 ..................................................................... 4-9 4.5.4 Runway and Taxiway Turnpaths - Runway-to-Taxiway, More Than 90 Degree Turn: Model 787-9 .................................................... 4-10 4.5.5 Runway and Taxiway Turnpaths - Runway-to-Taxiway, 90 Degree Turn: Model 787-9 ................................................................... 4-11 4.5.6 Runway and Taxiway Turnpaths - Taxiway-to-Taxiway, 90 Degree Turn: Model 787-9 ................................................................... 4-12 4.5.7 Runway and Taxiway Turnpaths - Runway-to-Taxiway, More Than 90 Degree Turn: Model 787-10 .................................................. 4-13 4.5.8 Runway and Taxiway Turnpaths - Runway-to-Taxiway, 90 Degree Turn: Model 787-10 ................................................................. 4-14 4.5.9 Runway and Taxiway Turnpaths - Taxiway-to-Taxiway, 90 Degree Turn: Model 787-10 ................................................................. 4-15 4.6 RUNWAY HOLDING BAY: MODEL 787-8, 787-9, 787-10 ...................... 4-16 5.0 TERMINAL SERVICING ..................................................................................... 5-1 5.1 AIRPLANE SERVICING ARRANGEMENT - TYPICAL TURNAROUND .............................................................................................. 5-2 5.1.1 Airplane Servicing Arrangement - Typical Turnaround: Model 787-8 ...................................................................................................... 5-2 5.1.2 Airplane Servicing Arrangement - Typical Turnaround: Model 787-9 ...................................................................................................... 5-3 5.1.3 Airplane Servicing Arrangement - Typical Turnaround: Model 787-10 .................................................................................................... 5-4 5.1.4 Airplane Servicing Arrangement - Typical En Route: Model 787- 8 .............................................................................................................. 5-5 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<vii  5.1.5 Airplane Servicing Arrangement - Typical En Route: Model 787- 9 .............................................................................................................. 5-6 5.1.6 Airplane Servicing Arrangement - Typical En Route: Model 787- 10 ............................................................................................................ 5-7 5.2 TERMINAL OPERATIONS - TURNAROUND STATION .......................... 5-8 5.2.1 Terminal Operations, Turntime Analysis - Turnaround Station: Model 787-8 ........................................................................................... 5-8 5.2.2 Terminal Operations, Turntime Analysis - Turnaround Station: Model 787-9 ........................................................................................... 5-9 5.2.3 Terminal Operations, Turntime Analysis - Turnaround Station: Model 787-10 ....................................................................................... 5-10 5.3 TERMINAL OPERATIONS - EN ROUTE STATION ................................. 5-11 5.3.1 Terminal Operations, Turntime Analysis - En Route Station: Model 787-8 ......................................................................................... 5-11 5.3.2 Terminal Operations, Turntime Analysis - En Route Station: Model 787-9 ......................................................................................... 5-12 5.3.3 Terminal Operations, Turntime Analysis - En Route Station: Model 787-10 ....................................................................................... 5-13 5.4 GROUND SERVICE CONNECTIONS ........................................................ 5-14 5.4.1 Ground Service Connections: Model 787-8 ......................................... 5-14 5.4.2 Ground Service Connections and Capacities: Model 787-8 ................ 5-15 5.4.3 Ground Servicing Connections: Model 787-9 ..................................... 5-16 5.4.4 Ground Servicing Connections and Capacities: Model 787-9 ............. 5-17 5.4.5 Ground Servicing Connections: Model 787-10 ................................... 5-18 5.4.6 Ground Servicing Connections and Capacities: Model 787-10 ........... 5-19 5.5 ENGINE STARTING AND GROUND POWER REQUIREMENTS .......... 5-20 5.5.1 Engine Starting Ground Power Requirements – Electrical – APU: Model 787-8, 787-9, 787-10 ................................................................ 5-20 5.5.2 Engine Starting Ground Power Requirements – Electrical – APU Inoperative – Two/Three GPU: Model 787-8, 787-9, 787-10 ............. 5-21 5.5.3 Engine Power Requirements – Pneumatic: Model 787-8, 787-9, 787-10 .................................................................................................. 5-22 5.6 CONDITIONED AIR REQUIREMENTS ..................................................... 5-23 5.6.1 Conditioned Air Flow Requirements – Cooling Time: Model 787- 8 ............................................................................................................ 5-23 5.6.2 Conditioned Air Flow Requirements – Cooling – Steady State (103 F Ambient Air): Model 787-8 ...................................................... 5-24 5.6.3 Conditioned Air Flow Requirements – Cooling – Steady State (80 F Ambient Air): Model 787-8 ........................................................ 5-25 5.6.4 Conditioned Air Flow Requirements – Heating Time: Model 787- 8 ............................................................................................................ 5-26 5.6.5 Conditioned Air Flow Requirements – Heating – Steady State: Model 787-8 ......................................................................................... 5-27 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<viii  5.6.6 Conditioned Air Flow Requirements – Cooling Time: Model 787- 9 ............................................................................................................ 5-28 5.6.7 Conditioned Air Flow Requirements – Cooling – Steady State (103 F Ambient Air): Model 787-9 ...................................................... 5-29 5.6.8 Conditioned Air Flow Requirements – Cooling – Steady State (80 F Ambient Air): Model 787-9 ........................................................ 5-30 5.6.9 Conditioned Air Flow Requirements – Heating Time: Model 787- 9 ............................................................................................................ 5-31 5.6.10 Conditioned Air Flow Requirements – Heating – Steady State: Model 787-9 ......................................................................................... 5-32 5.6.11 Conditioned Air Flow Requirements – Cooling Time: Model 787- 10 .......................................................................................................... 5-33 5.6.12 Conditioned Air Flow Requirements – Cooling – Steady State (103 F Ambient Air): Model 787-10 .................................................... 5-34 5.6.13 Conditioned Air Flow Requirements – Cooling – Steady State (80 F Ambient Air): Model 787-10 ...................................................... 5-35 5.6.14 Conditioned Air Flow Requirements – Heating Time: Model 787- 10 .......................................................................................................... 5-36 5.6.15 Conditioned Air Flow Requirements – Heating – Steady State: Model 787-10 ....................................................................................... 5-37 5.7 GROUND TOWING REQUIREMENTS ...................................................... 5-38 5.7.1 Ground Towing Requirements - English Units: Model 787-8, 787- 9, 787-10 .............................................................................................. 5-38 5.7.2 Ground Towing Requirements - Metric Units: Model 787-8, 787- 9, 787-10 .............................................................................................. 5-39 6.0 JET ENGINE WAKE AND NOISE DATA .......................................................... 6-1 JET ENGINE EXHAUST VELOCITIES AND TEMPERATURE ................ 6-1 6.1 6.1.1 6.1.2 6.1.3 6.1.4 6.1.5 6.1.6 6.1.7 6.1.8 Jet Engine Exhaust Velocity Contours – Idle Thrust / Both Engines: Model 787-8 ............................................................................ 6-2 Jet Engine Exhaust Velocity Contours - Breakaway Thrust / 0% Slope / Both Engines / MTW: Model 787-8 .......................................... 6-3 Jet Engine Exhaust Velocity Contours – Breakaway Thrust / 1% Slope / Both Engines / MTW: Model 787-8 .......................................... 6-4 Jet Engine Exhaust Velocity Contours – Breakaway Thrust / 0% Slope / Single Engine / MTW: Model 787-8 ......................................... 6-5 Jet Engine Exhaust Velocity Contours – Breakaway Thrust / 0% Slope / Single Engine / MLW: Model 787-8 ......................................... 6-6 Jet Engine Exhaust Velocity Contours – Takeoff Thrust / Both Engines: Model 787-8 ............................................................................ 6-7 Jet Engine Exhaust Temperature Contours – Idle/Breakaway Thrust: Model 787-8 .............................................................................. 6-8 Jet Engine Exhaust Temperature Contours – Takeoff Thrust / Both Engines: Model 787-8 ................................................................... 6-9 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<ix  Jet Engine Exhaust Velocity Contours – Idle Thrust: Model 787-9 .... 6-10 6.1.9 6.1.10 Jet Engine Exhaust Velocity Contours – Breakaway Thrust / 0% Slope / Both Engines / MTW: Model 787-9 ........................................ 6-11 6.1.11 Jet Engine Exhaust Velocity Contours – Breakaway Thrust / 1% Slope / Both Engines / MTW: Model 787-9 ........................................ 6-12 6.1.12 Jet Engine Exhaust Velocity Contours – Breakaway Thrust / 0% Slope / Single Engine / MTW: Model 787-9 ....................................... 6-13 6.1.13 Jet Engine Exhaust Velocity Contours – Breakaway Thrust / 0% Slope / Single Engine / MLW: Model 787-9 ....................................... 6-14 6.1.14 Jet Engine Exhaust Velocity Contours – Takeoff Thrust / Both Engines: Model 787-9 .......................................................................... 6-15 6.1.15 Jet Engine Exhaust Temperature Contours – Idle/Breakaway Thrust: Model 787-9 ............................................................................ 6-16 6.1.16 Jet Engine Exhaust Temperature Contours – Takeoff Thrust / Both Engines: Model 787-9 ................................................................. 6-17 6.1.17 Jet Engine Exhaust Velocity Contours – Idle Thrust / Both Engines: Model 787-10 ........................................................................ 6-18 6.1.18 Jet Engine Exhaust Velocity Contours – Breakaway Thrust / 0% Slope / Both Engines: Model 787-10 ................................................... 6-19 6.1.19 Jet Engine Exhaust Velocity Contours – Breakaway Thrust / 1% Slope / Both Engines / MTW: Model 787-10 ...................................... 6-20 6.1.20 Jet Engine Exhaust Velocity Contours – Breakaway Thrust / 0% Slope / Single Engine / MTW: Model 787-10 ..................................... 6-21 6.1.21 Jet Engine Exhaust Velocity Contours – Breakaway Thrust / 0% Slope / Single Engine / MLW: Model 787-10 ..................................... 6-22 6.1.22 Jet Engine Exhaust Velocity Contours – Takeoff Thrust / Both Engines: Model 787-10 ........................................................................ 6-23 6.1.23 Jet Engine Exhaust Temperature Contours – Idle/Breakaway Thrust: Model 787-10 .......................................................................... 6-24 6.1.24 Jet Engine Exhaust Temperature Contours – Takeoff Thrust / Both Engines: Model 787-10 ............................................................... 6-25 Inlet Hazard Areas: All Models ........................................................... 6-26 6.2 AIRPORT AND COMMUNITY NOISE ....................................................... 6-27 6.1.25 7.0 PAVEMENT DATA .............................................................................................. 7-1 7.1 GENERAL INFORMATION ........................................................................... 7-1 7.2 LANDING GEAR FOOTPRINT: MODEL 787-8, 787-9, 787-10 .................. 7-4 7.3 MAXIMUM PAVEMENT LOADS: MODEL 787-8, 787-9, 787-10 ............. 7-5 7.4 LANDING GEAR LOADING ON PAVEMENT ........................................... 7-6 7.4.1 Landing Gear Loading on Pavement: Model 787-8 ............................... 7-6 7.4.2 Landing Gear Loading on Pavement: Model 787-9 ............................... 7-7 7.4.3 Landing Gear Loading on Pavement: Model 787-10 ............................. 7-8 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<x  7.5 FLEXIBLE PAVEMENT REQUIREMENTS - FAA DESIGN METHOD ......................................................................................................... 7-9 7.6 FLEXIBLE PAVEMENT REQUIREMENTS - LCN CONVERSION ......... 7-10 7.7 RIGID PAVEMENT REQUIREMENTS - PORTLAND CEMENT ASSOCIATION DESIGN METHOD ............................................................ 7-11 7.8 RIGID PAVEMENT REQUIREMENTS - LCN CONVERSION ................ 7-12 7.9 RIGID PAVEMENT REQUIREMENTS - FAA DESIGN METHOD ......... 7-13 7.10 ACN/PCN REPORTING SYSTEM - FLEXIBLE AND RIGID PAVEMENTS ................................................................................................ 7-14 7.10.1 Aircraft Classification Number - Flexible Pavement: Model 787-8 .... 7-15 7.10.2 Aircraft Classification Number - Flexible Pavement: Model 787-9 .... 7-16 7.10.3 Aircraft Classification Number - Flexible Pavement: Model 787- 10 .......................................................................................................... 7-17 7.10.4 Aircraft Classification Number - Rigid Pavement: Model 787-8 ........ 7-18 7.10.5 Aircraft Classification Number – Rigid Pavement: Model 787-9 ....... 7-19 7.10.6 Aircraft Classification Number – Rigid Pavement: Model 787-10 ..... 7-20 7.11 ACR/PCR REPORTING SYSTEM - FLEXIBLE AND RIGID PAVEMENTS ................................................................................................ 7-21 7.11.1 Aircraft Classification Rating- Flexible Pavement: Model 787-8 ....... 7-22 7.11.2 Aircraft Classification Rating- Flexible Pavement: Model 787-9 ....... 7-23 7.11.3 Aircraft Classification Rating- Flexible Pavement: Model 787-10 ..... 7-24 7.11.4 Aircraft Classification Rating- Rigid Pavement: Model 787-8 ............ 7-25 7.11.5 Aircraft Classification Rating- Rigid Pavement: Model 787-9 ............ 7-26 7.11.6 Aircraft Classification Rating- Rigid Pavement: Model 787-10 .......... 7-27 8.0 FUTURE 787 DERIVATIVE AIRPLANES.......................................................... 8-1 9.1.1 9.1.2 9.0 SCALED 787 DRAWINGS ................................................................................... 9-1 9.1 MODEL 787-8 .................................................................................................. 9-2 Scaled Drawings – 1:500: Model 787-8 ................................................. 9-2 Scaled Drawings – 1:500: Model 787-8 ................................................. 9-3 9.2 MODEL 787-9 .................................................................................................. 9-4 Scaled Drawing – 1:500: Model 787-9 .................................................. 9-4 Scaled Drawing – 1:500: Model 787-9 .................................................. 9-5 9.3 MODEL 787-10 ................................................................................................ 9-6 Scaled Drawings – 1:500: Model 787-10 ............................................... 9-6 Scaled Drawings – 1:500: Model 787-10 ............................................... 9-7 9.3.1 9.3.2 9.2.1 9.2.2 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<xi  1.0 SCOPE AND INTRODUCTION 1.1 SCOPE This document provides, in a standardized format, airplane characteristics data for general airport planning.>>>
-<<<Since operational practices vary among airlines, specific data should be coordinated with the using airlines prior to facility design.>>>
-<<<Boeing Commercial Airplanes should be contacted for any additional information required.>>>
-<<<Content of the document reflects the results of a coordinated effort by representatives from the following organizations: • Aerospace Industries Association • Airports Council International - North America • Air Transport Association of America • International Air Transport Association The airport planner may also want to consider the information presented in the "Commercial Aircraft Design Characteristics - Trends and Growth Projections," for long range planning needs and can be accessed via the following website: http://www.boeing.com/airports The document is updated periodically and represents the coordinated efforts of the following organizations regarding future aircraft growth trends.>>>
-<<<• International Coordinating Council of Aerospace Industries Associations • Airports Council International - North American and World Organizations • Air Transport Association of America • International Air Transport Association REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<1-1  1.2 INTRODUCTION This document conforms to NAS 3601.>>>
-<<<It provides characteristics of the Boeing 787 Dreamliner family of airplanes for airport planners and operators, airlines, architectural and engineering consultant organizations, and other interested industry agencies.>>>
-<<<Airplane changes and available options may alter model characteristics.>>>
-<<<The data presented herein reflects the 787 family.>>>
-<<<Data used is generic in scope and not customer-specific.>>>
-<<<For additional information contact: Boeing Commercial Airplanes 2201 Seal Beach Blvd.>>>
-<<<M/C: 110-SB02 Seal Beach, CA 90740-1515 U.S.A.>>>
-<<<Attention: Manager, Airport Operations Engineering Phone: 562-797-1172 Email: AirportCompatibility@boeing.com REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<1-2   1.3 A BRIEF DESCRIPTION OF THE 787 FAMILY OF AIRPLANES The 787 Dreamliner is an efficient family of twin-engine airplanes with exceptional environmental performance and new passenger-pleasing features.>>>
-<<<An international team of aerospace companies builds the 787, led by Boeing at its Everett facility near Seattle, WA and in North Charleston, SC.>>>
-<<<787 Family The 787 family is designed for medium- to long-range flights.>>>
-<<<In a typical dual-class configuration, the 787-8 can carry 242 passengers, the 787-9 can carry 290 passengers, and the 787-10 will carry 330 passengers.>>>
-<<<787 Engines The 787 features new engines from General Electric and Rolls-Royce that represent nearly a two-generation jump in technology.>>>
-<<<Cargo Handling The lower lobe cargo compartments can accommodate a variety of containers and pallets now in use.>>>
-<<<Ground Servicing The 787 features a more-electric design and does not have a traditional pneumatic system.>>>
-<<<The traditional pneumatic starters on the engines are replaced with a pair of gearbox- mounted main-engine starter/generators.>>>
-<<<Cabin air conditioning and wing anti-ice systems are also electrically powered.>>>
-<<<The remaining pneumatic system is for engine nacelle anti- ice.>>>
-<<<The airplane has ground service connections compatible with existing ground service equipment, and no special equipment is necessary.>>>
-<<<In case of an inoperable APU, engine starts may be accomplished via the airplane's external ground electrical connections.>>>
-<<<REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<1-3  1.4 CONVERSION FACTORS The data in this manual is provided in both English and Metric units.>>>
-<<<Unless otherwise stated, the conversions listed below are used throughout this manual.>>>
-<<<MULTIPLY BY TO OBTAIN Pounds 0.45359237 Kilograms U.S. Gallons 3.78541180 Liters Inches Feet 2.54000000 Centimeters 0.30480000 Meters When totals or summations are required the English values are summed separately from the Metric values.>>>
-<<<Differences may occur when comparing the English total with metric totals due to rounding.>>>
-<<<All metric values are converted from English values.>>>
-<<<When using the conversion factors in this manual, all resultants will be rounded except when the value is a weight limitation.>>>
-<<<For minimum or maximum weight limitations the resultant metric values will be rounded up or truncated, whichever is more conservative.>>>
-<<<REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<1-4  2.0 AIRPLANE DESCRIPTION 2.1 GENERAL CHARACTERISTICS Maximum Design Taxi Weight (MTW).>>>
-<<<Maximum weight for ground maneuver as limited by aircraft strength and airworthiness requirements.>>>
-<<<(It includes weight of taxi and run-up fuel.)>>>
-<<<Maximum Design Takeoff Weight (MTOW).>>>
-<<<Maximum weight for takeoff as limited by aircraft strength and airworthiness requirements.>>>
-<<<(This is the maximum weight at start of the takeoff run.)>>>
-<<<Maximum Design Landing Weight (MLW).>>>
-<<<Maximum weight for landing as limited by aircraft strength and airworthiness requirements.>>>
-<<<Maximum Design Zero Fuel Weight (MZFW).>>>
-<<<Maximum weight allowed before usable fuel and other specified usable agents must be loaded in defined sections of the aircraft as limited by strength and airworthiness requirements.>>>
-<<<Operating Empty Weight (OEW).>>>
-<<<Weight of structure, powerplant, furnishing systems, unusable fuel and other unusable propulsion agents, and other items of equipment that are considered an integral part of a particular airplane configuration.>>>
-<<<Also included are certain standard items, personnel, equipment, and supplies necessary for full operations, excluding usable fuel and payload.>>>
-<<<Maximum Structural Payload.>>>
-<<<Maximum design zero fuel weight minus operation empty weight.>>>
-<<<Maximum Seating Capacity.>>>
-<<<The maximum number of passengers specifically certificated or anticipated for certification.>>>
-<<<Maximum Cargo Volume.>>>
-<<<The maximum space available for cargo.>>>
-<<<Usable Fuel.>>>
-<<<Fuel available for aircraft propulsion.>>>
-<<<REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<2-1  2.1.1 General Characteristics: Model 787-8 CHARACTERISTICS UNITS MODEL 787-8 *[1] MAX DESIGN TAXI WEIGHT MAX DESIGN TAKEOFF WEIGHT MAX DESIGN LANDING WEIGHT MAX DESIGN ZERO FUEL WEIGHT SEATING CAPACITY POUNDS KILOGRAMS POUNDS KILOGRAMS POUNDS KILOGRAMS POUNDS KILOGRAMS ONE CLASS 503,500 228,383 502,500 227,930 380,000 172,365 355,000 161,025 359 ALL-ECONOMY SEATS; FAA EXIT LIMIT = 381 SEATS MIXED CLASS 242 DUAL-CLASS; 24 BUSINESS CLASS, 218 ECONOMY CLASS (SEE SEC 2.4) MAX CARGO - CUBIC FEET LOWER DECK *[2] CUBIC METERS USABLE FUEL *[3] U.S. GALLONS LITERS POUNDS KILOGRAMS 4,826 136.7 33,340 126,206 223,378 101,343 NOTES: *[1] GENERAL CHARACTERISTICS ARE THE SAME FOR BOTH GENERAL ELECTRIC AND ROLLS ROYCE ENGINES.>>>
-<<<*[2] 16 LD-3 CONTAINERS IN FWD COMPARTMENT AT 158 CU FT (4.5 CU M) EACH; 12 LD-3 CONTAINERS IN AFT COMPARTMENT; 402 CU FT (11.4 CU M) IN BULK CARGO COMPARTMENT.>>>
-<<<SEE SEC 2.6 FOR OTHER LOADING COMBINATIONS.>>>
-<<<*[3] FUEL DENSITY = 6.7 LBS/US GAL REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<2-2  2.1.2 General Characteristics: Model 787-9 CHARACTERISTICS UNITS MODEL 787-9 *[1] MAX DESIGN TAXI WEIGHT MAX DESIGN TAKEOFF WEIGHT MAX DESIGN LANDING WEIGHT MAX DESIGN ZERO FUEL WEIGHT SEATING CAPACITY POUNDS KILOGRAMS POUNDS KILOGRAMS POUNDS KILOGRAMS POUNDS KILOGRAMS ONE CLASS 563,000 255,372 561,500 254,692 425,000 192,776 400,000 181,436 406 ALL-ECONOMY SEATS; FAA EXIT LIMIT = 420 SEATS MIXED CLASS 290 DUAL-CLASS; 28 BUSINESS CLASS, 262 ECONOMY CLASS (SEE SEC 2.4) MAX CARGO - CUBIC FEET LOWER DECK *[2] CUBIC METERS USABLE FUEL *[3] U.S. GALLONS LITERS POUNDS KILOGRAMS 6,090 172.4 33,399 126,429 223,773 101,522 NOTES: *[1] GENERAL CHARACTERISTICS ARE THE SAME FOR BOTH GENERAL ELECTRIC AND ROLLS ROYCE ENGINES.>>>
-<<<*[2] 20 LD-3 CONTAINERS IN FWD COMPARTMENT AT 158 CU FT (4.5 CU M) EACH; 16 LD-3 CONTAINERS IN AFT COMPARTMENT; 402 CU FT (11.4 CU M) IN BULK CARGO COMPARTMENT.>>>
-<<<SEE SEC 2.6 FOR OTHER LOADING COMBINATIONS.>>>
-<<<*[3] FUEL DENSITY = 6.7 LBS/US GAL REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<2-3   2.1.3 General Characteristics: Model 787-10 CHARACTERISTICS UNITS MODEL 787-10 *[1] MAX DESIGN TAXI WEIGHT MAX DESIGN TAKEOFF WEIGHT MAX DESIGN LANDING WEIGHT MAX DESIGN ZERO FUEL WEIGHT SEATING CAPACITY POUNDS KILOGRAMS POUNDS KILOGRAMS POUNDS KILOGRAMS POUNDS KILOGRAMS ONE CLASS 561,500 254,692 560,000 254,011 445,000 201,848 425,000 192,776 440 ALL-ECONOMY SEATS; FAA EXIT LIMIT = 440 SEATS MIXED CLASS 330 DUAL-CLASS; 32 BUSINESS CLASS, 298 ECONOMY CLASS (SEE SEC 2.4) MAX CARGO - CUBIC FEET LOWER DECK *[2] CUBIC METERS USABLE FUEL *[3] U.S. GALLONS LITERS POUNDS KILOGRAMS 6,722 190.3 33,399 126,429 223,773 101,522 NOTES: *[1] GENERAL CHARACTERISTICS ARE THE SAME FOR BOTH GENERAL ELECTRIC AND ROLLS ROYCE ENGINES.>>>
-<<<*[2] 22 LD-3 CONTAINERS IN FWD COMPARTMENT AT 158 CU FT (4.5 CU M) EACH; 18 LD-3 CONTAINERS IN AFT COMPARTMENT; 402 CU FT (11.4 CU M) IN BULK CARGO COMPARTMENT.>>>
-<<<SEE SEC 2.6 FOR OTHER LOADING COMBINATIONS.>>>
-<<<*[3] FUEL DENSITY = 6.7 LBS/US GAL REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<2-4   2.2 GENERAL DIMENSIONS 2.2.1 General Dimensions: Model 787-8 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<2-5  2.2.2 General Dimensions: Model 787-9 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<2-6  2.2.3 General Dimensions: Model 787-10 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<2-7  2.3 GROUND CLEARANCES 2.3.1 Ground Clearances: Model 787-8 Dimension A B C D E F (GE ENGINES) F (RR ENGINES) G H J K L M N FT - IN 25 – 2 13 – 11 7 – 9 5 – 6 14 – 5 2 – 5 2 – 4 15 – 1 8 – 9 23 – 10 8 – 11 15 – 3 22 – 3 54 – 5 MINIMUM MAXIMUM M 7.67 4.24 2.36 1.68 4.39 0.74 0.71 4.60 2.67 7.26 2.72 4.65 6.78 16.59 FT - IN 26 – 4 15 – 6 9 – 0 6 – 10 15 – 5 3 – 6 3 – 6 15 – 8 9 – 6 25 – 5 9 – 10 16 – 2 23 – 5 56 – 1 M 8.03 4.72 2.74 2.08 4.70 1.07 1.07 4.78 2.90 7.75 3.00 4.93 7.14 17.09 NOTES: 1.>>>
-<<<2.>>>
-<<<VERTICAL CLEARANCES SHOWN OCCUR DURING MAXIMUM VARIATIONS OF AIRPLANE ATTITUDE.>>>
-<<<COMBINATIONS OF AIRPLANE LOADING AND UNLOADING ACTIVITIES THAT PRODUCE THE GREATEST POSSIBLE VARIATION IN ATTITUDE WERE USED TO ESTABLISH THE VARIATIONS SHOWN.>>>
-<<<DURING ROUTINE SERVICING, THE AIRPLANE REMAINS RELATIVELY STABLE, PITCH AND ELEVATION CHANGES OCCURRING SLOWLY.>>>
-<<<* NOMINAL DIMENSIONS ROUNDED TO NEAREST INCH AND NEAREST CENTIMETER.>>>
-<<<REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<2-8   2.3.2 Ground Clearances: Model 787-9 Dimension A B C D E F (GE ENGINES) F (RR ENGINES) G H J K L M N FT - IN 24 – 4 13 – 11 7 – 8 5 – 9 14 – 6 2 – 3 2 – 0 15 – 2 8 – 10 24 – 0 9 – 0 15 – 5 22 – 7 55 – 2 MINIMUM MAXIMUM M 7.42 4.24 2.34 1.75 4.42 0.69 0.61 4.62 2.69 7.32 2.74 4.70 6.88 16.81 FT - IN 25 - 8 15 – 9 9 – 3 6 – 1 15 – 9 2 - 6 2 – 7 16 – 0 9 – 11 25 – 6 10 - 0 16 – 8 23 – 5 56 – 1 M 7.82 4.80 2.82 1.85 4.80 0.76 0.79 4.88 3.02 7.77 3.05 5.08 7.14 17.09 NOTES: 1.>>>
-<<<2.>>>
-<<<VERTICAL CLEARANCES SHOWN OCCUR DURING MAXIMUM VARIATIONS OF AIRPLANE ATTITUDE.>>>
-<<<COMBINATIONS OF AIRPLANE LOADING AND UNLOADING ACTIVITIES THAT PRODUCE THE GREATEST POSSIBLE VARIATION IN ATTITUDE WERE USED TO ESTABLISH THE VARIATIONS SHOWN.>>>
-<<<DURING ROUTINE SERVICING, THE AIRPLANE REMAINS RELATIVELY STABLE, PITCH AND ELEVATION CHANGES OCCURRING SLOWLY.>>>
-<<<* NOMINAL DIMENSIONS ROUNDED TO NEAREST INCH AND NEAREST CENTIMETER.>>>
-<<<REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<2-9    2.3.3 Ground Clearances: Model 787-10 Dimension A B C D E F (GE ENGINES) F (RR ENGINES) G H J K L M N FT - IN 26-0 14-0 7-9 6-6 14-8 2-5 2-5 15-4 9-2 25-4 9-6 15-10 23-3 55-5 MINIMUM MAXIMUM M 7.92 4.27 2.36 1.98 4.47 0.74 0.74 4.67 2.79 7.72 2.90 4.83 7.09 16.89 FT - IN 26-9 15-5 9-0 7-3 15-7 3-3 3-2 16-0 9-9 25-11 10-1 16-5 23-8 55-10 M 8.15 4.70 2.74 2.21 4.75 0.99 0.97 4.88 2.97 7.90 3.07 5.00 7.21 17.02 NOTES: 1.>>>
-<<<2.>>>
-<<<VERTICAL CLEARANCES SHOWN OCCUR DURING MAXIMUM VARIATIONS OF AIRPLANE ATTITUDE.>>>
-<<<COMBINATIONS OF AIRPLANE LOADING AND UNLOADING ACTIVITIES THAT PRODUCE THE GREATEST POSSIBLE VARIATION IN ATTITUDE WERE USED TO ESTABLISH THE VARIATIONS SHOWN.>>>
-<<<DURING ROUTINE SERVICING, THE AIRPLANE REMAINS RELATIVELY STABLE, PITCH AND ELEVATION CHANGES OCCURRING SLOWLY.>>>
-<<<* NOMINAL DIMENSIONS ROUNDED TO NEAREST INCH AND NEAREST CENTIMETER.>>>
-<<<REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<2-10    2.4 INTERIOR ARRANGEMENTS 2.4.1 Interior Arrangements - Typical: Model 787-8, 787-9, 787-10 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<2-11  2.5 CABIN CROSS SECTIONS 2.5.1 Cabin Cross-Sections: Model 787-8, 787-9, 787-10 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<2-12  2.6 LOWER CARGO COMPARTMENTS 2.6.1 Lower Cargo Compartments: Model 787-8, Containers and Bulk Cargo REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<2-13  2.6.2 Lower Cargo Compartments: Model 787-9, Containers and Bulk Cargo REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<2-14  2.6.3 Lower Cargo Compartments: Model 787-10, Containers and Bulk Cargo REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<2-15  2.7 DOOR CLEARANCES 2.7.1 Door Locations: Model 787-8, 787-9, 787-10, Passenger and Cargo Doors SEE NOTE *[2] Door Name Door Location 787-8 FT-IN/M 787-9 FT-IN/M 787-10 FT-IN/M 1 2 3 4 5 6 7 MAIN ENTRY/SERVICE DOOR NO 1 (2) LEFT AND RIGHT MAIN ENTRY/SERVICE DOOR NO 2 (2) LEFT AND RIGHT MAIN ENTRY/SERVICE DOOR NO 3 (2) LEFT AND RIGHT MAIN ENTRY/SERVICE DOOR NO 4 (2) LEFT AND RIGHT 20-8 / 6.30 20-8 / 6.30 20-8 / 6.30 50-3 / 15.32 60-3 / 18.36 70-3 / 21.41 106-3 / 32.39 116-3 / 35.43 126-3 / 38.48 142-11 / 43.56 162-11 / 49.66 180-11 / 55.14 FORWARD CARGO DOOR RIGHT 36-1 / 11.00 36-1 / 11.00 36-1 / 11.00 AFT CARGO DOOR RIGHT 122-1 / 37.21 142-1 / 43.31 152-1 / 46.36 BULK CARGO DOOR LEFT 136-8 / 41.66 156-8 / 47.75 174-8 / 53.24 NOTES: *[1] ENTRY DOORS LEFTSIDE, SERVICE DOORS RIGHTSIDE *[2] SEE SECTION 2.3 FOR DOOR SILL HEIGHTS REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<2-16    2.7.2 Door Clearances: Model 787-8, 787-9, 787-10, Main Deck Entry and Service Doors REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<2-17    2.7.3 Door Clearances: Model 787-8, 787-9, 787-10, Lower Deck Cargo Door (Forward & Aft) REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<2-18  2.7.4 Door Clearances: Model 787-8, 787-9, 787-10, Bulk Cargo Door REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<2-19  3.0 AIRPLANE PERFORMANCE 3.1 GENERAL INFORMATION The graphs in Section 3.2 provide information on payload-range capability of the 787 airplane.>>>
-<<<To use these graphs, if the trip range and zero fuel weight (OEW + payload) are known, the approximate takeoff weight can be found, limited by maximum zero fuel weight, maximum design takeoff weight, or fuel capacity.>>>
-<<<The graphs in Section 3.3 provide information on FAA/EASA takeoff runway length requirements with typical engines at different pressure altitudes.>>>
-<<<Maximum takeoff weights shown on the graphs are the heaviest for the particular airplane models with the corresponding engines.>>>
-<<<Standard day temperatures for pressure altitudes shown on the FAA/EASA takeoff graphs are given below: PRESSURE ALTITUDE STANDARD DAY TEMP FEET 0 2,000 4,000 6,000 8,000 10,000 12,000 14,000 METERS 0 610 1,219 1,829 2,438 3,048 3,658 4,267 °F 59.0 51.9 44.7 37.6 30.5 23.3 16.2 9.1 °C 15.0 11.0 7.1 3.1 -0.8 -4.8 -8.8 -12.7 The graphs in Section 3.4 provide information on landing runway length requirements for different airplane weights and airport altitudes.>>>
-<<<The maximum landing weights shown are the heaviest for the particular airplane model.>>>
-<<<REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<3-1     3.2 PAYLOAD/RANGE FOR LONG RANGE CRUISE 3.2.1 Payload/Range for Long-Range Cruise: Model 787-8 (Typical Engines) REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<3-2  3.2.2 Payload/Range for Long-Range Cruise: Model 787-9 (Typical Engines) REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<3-3  3.2.3 Payload/Range for Long-Range Cruise: Model 787-10 (Typical Engines) REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<3-4  3.3 FAA/EASA TAKEOFF RUNWAY LENGTH REQUIREMENTS 3.3.1 FAA/EASA Takeoff Runway Length Requirements - Standard Day, Dry Runway: Model 787-8 (Typical Engines) REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<3-5  3.3.2 FAA/EASA TakeOff Runway Length Requirements - Standard Day + 27°F (STD + 15°C), Dry Runway: Model 787-8 (Typical Engines) REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<3-6  3.3.3 FAA/EASA Takeoff Runway Length Requirements - Standard Day + 45°F (STD + 25°C), Dry Runway: Model 787-8 (Typical Engines) REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<3-7  3.3.4 FAA/EASA Takeoff Runway Length Requirements - Standard Day + 61°F (STD + 34°C, Dry Runway): Model 787-8 (Typical Engines) REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<3-8   3.3.5 FAA/EASA Takeoff Runway Length Requirements - Standard Day, Dry Runway: Model 787-8 (Hi-Thrust Engines) REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<3-9   3.3.6 FAA/EASA Takeoff Runway Length Requirements - Standard Day + 27°F (STD + 15°C), Dry Runway: Model 787-8 (Hi-Thrust Engines) REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<3-10   3.3.7 FAA/EASA Takeoff Runway Length Requirements - Standard Day + 45°F (STD + 25°C), Dry Runway: Model 787-8 (Hi-Thrust Engines) REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<3-11   3.3.8 FAA/EASA Takeoff Runway Length Requirements - Standard Day + 61°F (STD + 34°C), Dry Runway: Model 787-8 (Hi-Thrust Engines) REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<3-12   3.3.9 FAA/EASA Takeoff Runway Length Requirements - Standard Day, Dry Runway: Model 787-9 (Typical Engines) REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<3-13   3.3.10 FAA/EASA Takeoff Runway Length Requirements - Standard Day + 27°F (STD + 15°C), Dry Runway: Model 787-9 (Typical Engines) REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<3-14  3.3.11 FAA/EASA Takeoff Runway Length Requirements - Standard Day + 45°F (STD + 25°C), Dry Runway: Model 787-9 (Typical Engines) REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<3-15  3.3.12 FAA/EASA Takeoff Runway Length Requirements - Standard Day + 61°F (STD + 34°C), Dry Runway: Model 787-9 (Typical Engines) REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<3-16   3.3.13 FAA/EASA Takeoff Runway Length Requirements - Standard Day, Dry Runway: Model 787-9, (Hi-Thrust Engines) REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<3-17  3.3.14 FAA/EASA Takeoff Runway Length Requirements - Standard Day + 27°F (STD + 15°C), Dry Runway: Model 787-9, (Hi-Thrust Engines) REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<3-18  3.3.15 FAA/EASA Takeoff Runway Length Requirements - Standard Day + 45°F (STD + 25°C), Dry Runway: Model 787-9, (Hi-Thrust Engines) REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<3-19  3.3.16 FAA/EASA Takeoff Runway Length Requirements - Standard Day + 61°F (STD + 34°C), Dry Runway: Model 787-9, (Hi-Thrust Engines) REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<3-20  3.3.17 FAA/EASA Takeoff Runway Length Requirements - Standard Day, Dry Runway: Model 787-10 (Typical Engines) REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<3-21  3.3.18 FAA/EASA Takeoff Runway Length Requirements - Standard Day + 27°F (STD + 15°C), Dry Runway: Model 787-10 (Typical Engines) REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<3-22  3.3.19 FAA/EASA Takeoff Runway Length Requirements - Standard Day + 45°F (STD + 25°C), Dry Runway: Model 787-10 (Typical Engines) REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<3-23  3.3.20 FAA/EASA Takeoff Runway Length Requirements - Standard Day + 61°F (STD + 34°C), Dry Runway: Model 787-10 (Typical Engines) REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<3-24  3.3.21 FAA/EASA Takeoff Runway Length Requirements - Standard Day, Dry Runway: Model 787-10 (Hi-Thrust Engines) REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<3-25  3.3.22 FAA/EASA Takeoff Runway Length Requirements - Standard Day + 27°F (STD + 15°C), Dry Runway: Model 787-10 (Hi-Thrust Engines) REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<3-26  3.3.23 FAA/EASA Takeoff Runway Length Requirements - Standard Day + 45°F (STD + 25°C), Dry Runway: Model 787-10 (Hi-Thrust Engines) REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<3-27  3.3.24 FAA/EASA Takeoff Runway Length Requirements - Standard Day + 61°F (STD + 34°C), Dry Runway: Model 787-10 (Hi-Thrust Engines) REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<3-28  3.4 FAA/EASA LANDING RUNWAY LENGTH REQUIREMENTS 3.4.1 FAA/EASA Landing Runway Length Requirements – Flaps 30: Model 787-8 (All Engines) REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<3-29  3.4.2 FAA/EASA Landing Runway Length Requirements – Flaps 25: Model 787-8 (All Engines) REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<3-30  3.4.3 FAA/EASA Landing Runway Length Requirements – Flaps 30: Model 787-9 (All Engines) REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<3-31  3.4.4 FAA/EASA Landing Runway Length Requirements – Flaps 25: Model 787-9 (All Engines) REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<3-32  3.4.5 FAA/EASA Landing Runway Length Requirements – Flaps 30: Model 787-10 (All Engines) REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<3-33  3.4.6 FAA/EASA Landing Runway Length Requirements – Flaps 25: Model 787-10 (All Engines) REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<3-34  4.0 GROUND MANEUVERING 4.1 GENERAL INFORMATION This section provides airplane turning capability and maneuvering characteristics.>>>
-<<<For ease of presentation, these data have been determined from the theoretical limits imposed by the geometry of the aircraft, and where noted, provide for a normal allowance for tire slippage.>>>
-<<<As such, they reflect the turning capability of the aircraft in favorable operating circumstances.>>>
-<<<These data should be used only as guidelines for the method of determination of such parameters and for the maneuvering characteristics of this aircraft.>>>
-<<<In the ground operating mode, varying airline practices may demand that more conservative turning procedures be adopted to avoid excessive tire wear and reduce possible maintenance problems.>>>
-<<<Airline operating procedures will vary in the level of performance over a wide range of operating circumstances throughout the world.>>>
-<<<Variations from standard aircraft operating patterns may be necessary to satisfy physical constraints within the maneuvering area, such as adverse grades, limited area, or high risk of jet blast damage.>>>
-<<<For these reasons, ground maneuvering requirements should be coordinated with the using airlines prior to layout planning.>>>
-<<<Section 4.2 presents turning radii for various nose gear steering angles.>>>
-<<<Radii for the main and nose gears are measured from the turn center to the outside of the tire.>>>
-<<<Section 4.3 shows data on minimum width of pavement required for 180° turn.>>>
-<<<Section 4.4 provides pilot visibility data from the cockpit and the limits of ambinocular vision through the windows.>>>
-<<<Ambinocular vision is defined as the total field of vision seen simultaneously by both eyes.>>>
-<<<Section 4.5 shows approximate wheel paths for various runway and taxiway turn scenarios.>>>
-<<<The pavement fillet geometries are based on the FAA’s Advisory Circular (AC) 150/5300- 13 (thru change 16).>>>
-<<<They represent typical fillet geometries built at many airports worldwide.>>>
-<<<ICAO and other civil aviation authorities publish many different fillet design methods.>>>
-<<<Prior to determining the size of fillets, airports are advised to check with the airlines regarding the operating procedures and aircraft types they expect to use at the airport.>>>
-<<<Further, given the cost of modifying fillets and the operational impact to ground movement and air traffic during construction, airports may want to design critical fillets for larger aircraft types to minimize future operational impacts.>>>
-<<<Section 4.6 illustrates a typical runway holding bay configuration.>>>
-<<<REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<4-1   4.2 TURNING RADII 4.2.1 Turning Radii – No Slip Angle: Model 787-8 NOTES: ACTUAL OPERATING TURNING RADII MAY BE GREATER THAN SHOWN.>>>
-<<<CONSULT WITH AIRLINE FOR SPECIFIC OPERATING PROCEDURE.>>>
-<<<STEERING ANGLE R1 INNER GEAR R2 OUTER GEAR R3 NOSE GEAR R4 WINGTIP R5 NOSE R6 TAIL (DEG) FT M 30 35 40 45 50 55 60 65 70 (MAX) 111 33.8 88 71 56 44 34 25 16 9 26.8 21.6 17.1 13.4 10.4 7.6 4.9 2.7 FT 149 126 109 94 82 72 63 54 47 M FT M 45.4 152 46.3 38.4 133 40.5 33.2 119 36.3 28.7 108 32.9 25.0 100 30.5 21.9 19.2 16.5 14.3 94 89 85 82 28.7 27.1 25.9 25.0 FT 232 210 192 178 167 157 148 140 133 M 70.7 64.0 58.5 54.3 50.9 47.9 45.1 42.7 40.5 FT 160 142 129 119 112 107 103 99 97 M 48.8 43.3 39.3 36.3 34.1 32.6 31.4 30.2 29.6 FT 188 168 154 143 134 127 121 116 112 M 57.3 51.2 46.9 43.6 40.8 38.7 36.9 35.4 34.1 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<4-2   4.2.2 Turning Radii – No Slip Angle: Model 787-9 NOTES: ACTUAL OPERATING TURNING RADII MAY BE GREATER THAN SHOWN.>>>
-<<<CONSULT WITH AIRLINE FOR SPECIFIC OPERATING PROCEDURE.>>>
-<<<STEERING ANGLE R1 INNER GEAR R2 OUTER GEAR R3 NOSE GEAR R4 WINGTIP R5 NOSE R6 TAIL (DEG) 30 35 40 45 50 55 60 65 70 (MAX) FT 128 102 82 66 52 40 30 21 12 M 39.0 31.1 25.0 20.1 15.8 12.2 9.1 6.4 3.7 FT 167 141 121 105 91 79 69 59 51 M 50.9 43.0 36.9 32.0 27.7 24.1 21.0 18.0 15.5 FT 172 150 134 122 113 106 100 96 93 M 52.4 45.7 40.8 37.2 34.4 32.3 30.5 29.3 28.3 FT 249 224 204 188 175 163 153 144 136 M 75.9 68.3 62.2 57.3 53.3 49.7 46.6 43.9 41.5 FT 180 159 144 133 125 119 114 110 108 M 54.9 48.5 43.9 40.5 38.1 36.3 34.7 33.5 32.9 FT 208 186 169 157 147 139 132 127 122 M 63.4 56.7 51.5 47.9 44.8 42.4 40.2 38.7 37.2 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<4-3   4.2.3 Turning Radii – No Slip Angle: Model 787-10 NOTES: ACTUAL OPERATING TURNING RADII MAY BE GREATER THAN SHOWN.>>>
-<<<CONSULT WITH AIRLINE FOR SPECIFIC OPERATING PROCEDURE.>>>
-<<<STEERING ANGLE R1 INNER GEAR R2 OUTER GEAR R3 NOSE GEAR R4 WINGTIP R5 NOSE R6 TAIL (DEG) 30 35 40 45 50 55 60 65 70 (MAX) FT 145 116 94 76 61 47 36 25 16 M 44.2 35.4 28.7 23.2 18.6 14.3 11.0 7.6 4.9 FT 184 155 133 115 99 86 75 64 54 M 56.1 47.2 40.5 35.1 30.2 26.2 22.9 19.5 16.5 FT 192 168 150 136 126 118 112 107 103 M 58.5 51.2 45.7 41.5 38.4 36.0 34.1 32.6 31.4 FT 266 238 216 198 183 170 159 149 139 M 81.1 72.5 65.8 60.4 55.8 51.8 48.5 45.4 42.4 FT 199 176 160 148 138 131 126 121 118 M 60.7 53.6 48.8 45.1 42.1 39.9 38.4 36.9 36.0 FT 227 202 184 170 159 150 142 136 131 M 69.2 61.6 56.1 51.8 48.5 45.7 43.3 41.5 39.9 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<4-4   4.3 CLEARANCE RADII: MODEL 787-8, 787-9, 787-10 EFFECTIVE TURNING ANGLE (DEG) X Y A R3 R4 R5 R6 FT M FT M FT M FT M FT M FT M FT M 65 65 64 75 22.9 35 10.7 139 42.4 85 25.9 140 42.7 99 30.2 116 35.4 85 25.9 40 12.2 155 47.2 96 29.3 144 43.9 110 33.5 127 38.7 95 29.0 47 14.3 173 52.7 108 32.9 151 46.0 122 37.2 137 41.8 MODEL 787-8 787-9 787-10 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<4-5  4.4 VISIBILITY FROM COCKPIT IN STATIC POSITION 4.4.1 Visibility from Cockpit in Static Position: Model 787-8, 787-9, 787-10 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<4-6  4.5 RUNWAY AND TAXIWAY TURNPATHS 4.5.1 Runway and Taxiway Turnpaths - Runway-to-Taxiway, More Than 90 Degree Turn: Model 787-8 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<4-7  4.5.2 Runway and Taxiway Turnpaths - Runway-to-Taxiway, 90 Degree Turn: Model 787-8 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<4-8  4.5.3 Runway and Taxiway Turnpaths - Taxiway-to-Taxiway, 90 Degree Turn: Model 787-8 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<4-9  4.5.4 Runway and Taxiway Turnpaths - Runway-to-Taxiway, More Than 90 Degree Turn: Model 787-9 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<4-10  4.5.5 Runway and Taxiway Turnpaths - Runway-to-Taxiway, 90 Degree Turn: Model 787-9 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<4-11  4.5.6 Runway and Taxiway Turnpaths - Taxiway-to-Taxiway, 90 Degree Turn: Model 787-9 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<4-12  4.5.7 Runway and Taxiway Turnpaths - Runway-to-Taxiway, More Than 90 Degree Turn: Model 787-10 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<4-13  4.5.8 Runway and Taxiway Turnpaths - Runway-to-Taxiway, 90 Degree Turn: Model 787-10 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<4-14  4.5.9 Runway and Taxiway Turnpaths - Taxiway-to-Taxiway, 90 Degree Turn: Model 787-10 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<4-15  4.6 RUNWAY HOLDING BAY: MODEL 787-8, 787-9, 787-10 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<4-16  5.0 TERMINAL SERVICING During turnaround at the terminal, certain services must be performed on the aircraft, usually within a given time, to meet flight schedules.>>>
-<<<This section shows service vehicle arrangements, schedules, locations of service points, and typical service requirements.>>>
-<<<The data presented in this section reflect ideal conditions for a single airplane.>>>
-<<<Service requirements may vary according to airplane condition and airline procedure.>>>
-<<<Section 5.1 shows typical arrangements of ground support equipment during turnaround.>>>
-<<<As noted, if the auxiliary power unit (APU) is used, the electrical, air start, and air- conditioning service vehicles would not be required.>>>
-<<<Passenger loading bridges or portable passenger stairs could be used to load or unload passengers.>>>
-<<<Sections 5.2 and 5.3 show typical service times at the terminal.>>>
-<<<These charts give typical schedules for performing service on the airplane within a given time.>>>
-<<<Service times may be rearranged to suit availability of personnel, airplane configuration, and degree of service required.>>>
-<<<Section 5.4 shows the locations of ground service connections in graphic and in tabular forms.>>>
-<<<Typical capacities and service requirements are shown in the tables.>>>
-<<<Services with requirements that vary with conditions are described in subsequent sections.>>>
-<<<Section 5.5 shows minimum electrical ground power requirements for engine start.>>>
-<<<The curves are based on 120-second and 180-second start times depending on the ground power unit.>>>
-<<<Section 5.6 shows air conditioning requirements for heating and cooling (pull-down and pull-up) using ground conditioned air.>>>
-<<<The curves show airflow requirements to heat or cool the airplane within a given time at ambient conditions.>>>
-<<<Section 5.7 shows air conditioning requirements for heating and cooling to maintain a constant cabin air temperature using low pressure conditioned air.>>>
-<<<This conditioned air is supplied through an 8-in (20.3 cm) ground air connection (GAC) directly to the passenger cabin, bypassing the air cycle machines.>>>
-<<<Section 5.8 shows ground towing requirements for various ground surface conditions.>>>
-<<<REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<5-1   5.1 AIRPLANE SERVICING ARRANGEMENT - TYPICAL TURNAROUND 5.1.1 Airplane Servicing Arrangement - Typical Turnaround: Model 787-8 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<5-2  5.1.2 Airplane Servicing Arrangement - Typical Turnaround: Model 787-9 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<5-3  5.1.3 Airplane Servicing Arrangement - Typical Turnaround: Model 787-10 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<5-4  5.1.4 Airplane Servicing Arrangement - Typical En Route: Model 787-8 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<5-5  5.1.5 Airplane Servicing Arrangement - Typical En Route: Model 787-9 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<5-6  5.1.6 Airplane Servicing Arrangement - Typical En Route: Model 787-10 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<5-7  5.2 TERMINAL OPERATIONS - TURNAROUND STATION 5.2.1 Terminal Operations, Turntime Analysis - Turnaround Station: Model 787-8 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<5-8  5.2.2 Terminal Operations, Turntime Analysis - Turnaround Station: Model 787-9 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<5-9  5.2.3 Terminal Operations, Turntime Analysis - Turnaround Station: Model 787-10 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<5-10  5.3 TERMINAL OPERATIONS - EN ROUTE STATION 5.3.1 Terminal Operations, Turntime Analysis - En Route Station: Model 787-8 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<5-11  5.3.2 Terminal Operations, Turntime Analysis - En Route Station: Model 787-9 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<5-12  5.3.3 Terminal Operations, Turntime Analysis - En Route Station: Model 787-10 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<5-13  5.4 GROUND SERVICE CONNECTIONS 5.4.1 Ground Service Connections: Model 787-8 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<5-14  5.4.2 Ground Service Connections and Capacities: Model 787-8 SYSTEM MODEL DISTANCE AFT OF DISTANCE FROM AIRPLANE CENTERLINE MAX HEIGHT ABOVE NOSE LH SIDE RH SIDE GROUND CONDITIONED AIR ONE 8-IN (20.3 CM) PORT 787-8 ELECTRICAL TWO FORWARD GROUND POWER RECEPTACLES ONE MID-AFT GROUND POWER RECEPTACLE ALL RECEPTACLES ARE 90 KVA , 200/115 V AC 400 HZ, 787-8 M FT M FT M FT FT 71 21.7 20 5.9 3 5 0.7 1.4 99 30.3 5 1.6 - - - - - - 7 8 7 M 2.0 2.5 2.2 TWLU ANTENNA LOCATION IS ON THE CENTERLINE POTABLE WATER ONE SERVICE CONNECTION FUEL ONE UNDERWING- PRESSURE CONNECTOR WITH TWO FUELING PORTS FUEL VENTS TOTAL CAPACITY 33,340 US GAL (126,205 LITERS) LAVATORY BOTH FORWARD AND AFT TOILETS ARE SERVICED THROUGH ONE SERVICE PANEL 787-8 23 7.1 0 0.0 0 0.0 25 7.7 787-8 63 19.3 4 1.1 - 90 27.5 49 14.8 - 787-8 - - 7 2.2 18 5.4 114 34.6 78 23.7 78 23.7 22 6.6 787-8 144 43.8 0 0.0 0 0.0 10 2.9 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<5-15  5.4.3 Ground Servicing Connections: Model 787-9 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<5-16  5.4.4 Ground Servicing Connections and Capacities: Model 787-9 SYSTEM MODEL DISTANCE AFT OF DISTANCE FROM AIRPLANE CENTERLINE MAX HEIGHT ABOVE NOSE LH SIDE RH SIDE GROUND CONDITIONED AIR TWO 8-IN (20.3 CM) PORTS 787-9 ELECTRICAL TWO FORWARD GROUND POWER RECEPTACLES ONE MID-AFT GROUND POWER RECEPTACLE ALL RECEPTACLES ARE 90 KVA , 200/115 V AC 400 HZ, 787-9 FT 81 M FT M FT M FT 24.7 0.7 3 0.7 3 5 20 5.9 1.4 M 2.0 2.5 2.2 7 8 7 - - - - 109 33.3 5 1.6 TWLU ANTENNA LOCATION IS ON THE CENTERLINE POTABLE WATER ONE SERVICE CONNECTION FUEL ONE UNDERWING- PRESSURE CONNECTOR WITH TWO FUELING PORTS FUEL VENTS TOTAL CAPACITY 33,380 US GAL (126,205 LITERS) LAVATORY BOTH FORWARD AND AFT TOILETS ARE SERVICED THROUGH ONE SERVICE PANEL 787-9 23 7.1 0 0.0 0 0.0 25 7.7 787-9 73 22.4 4 1.1 - 100 30.5 49 14.8 - 787-9 - - 7 2.3 18 5.4 124 37.6 78 23.7 78 23.7 22 6.6 787-9 164 49.9 0 0.0 0 0.0 8 2.5 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<5-17  5.4.5 Ground Servicing Connections: Model 787-10 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<5-18  5.4.6 Ground Servicing Connections and Capacities: Model 787-10 SYSTEM MODEL DISTANCE AFT OF DISTANCE FROM AIRPLANE CENTERLINE MAX HEIGHT ABOVE NOSE LH SIDE RH SIDE GROUND FT M FT M FT M FT M CONDITIONED AIR TWO 8-IN (20.3 CM) PORTS ELECTRICAL TWO FORWARD GROUND POWER RECEPTACLES ONE MID-AFT GROUND POWER RECEPTACLE ALL RECEPTACLES ARE 90 KVA , 200/115 V AC 400 HZ, TWLU ANTENNA LOCATION IS ON THE CENTERLINE POTABLE WATER ONE SERVICE CONNECTION FUEL ONE UNDERWING- PRESSURE CONNECTOR WITH TWO FUELING PORTS FUEL VENTS TOTAL CAPACITY 33,380 US GAL (126,205 LITERS) LAVATORY BOTH FORWARD AND AFT TOILETS ARE SERVICED THROUGH ONE SERVICE PANEL 787-10 91 27.8 20 5.9 787-10 2 5 0.6 2 0.6 7.0 2.1 1.4 - - - - 8 8 2.5 2.3 119 36.4 5 1.6 787-10 23 7.1 0 0.0 0 0.0 25 7.7 787-10 88 26.7 4 1.1 - 110 33.6 49 14.8 - 787-10 - - 8 2.4 18 5.5 134 40.7 78 23.7 78 23.7 22 6.7 787-10 182 55.3 0 0.0 0 0.0 10 3.2 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<5-19  5.5 ENGINE STARTING AND GROUND POWER REQUIREMENTS 5.5.1 Engine Starting Ground Power Requirements – Electrical – APU: Model 787-8, 787-9, 787-10 Normal engine start for the 787 uses the APU to provide electrical power.>>>
-<<<If the APU is inoperative or unavailable, an engine start can be accomplished using a minimum of two 90 kVA external ground power units connected to the two forward external receptacles.>>>
-<<<Boeing recommends using three 90 kVA ground power sources to minimize the effect on cabin load shedding of ventilation, In Flight Entertainment, and cabin lighting.>>>
-<<<REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<5-20  5.5.2 Engine Starting Ground Power Requirements – Electrical – APU Inoperative – Two/Three GPU: Model 787-8, 787-9, 787-10 Normal engine start for the 787 uses the APU to provide electrical power.>>>
-<<<If the APU is inoperative or unavailable, an engine start can be accomplished using a minimum of two 90 kVA external ground power units connected to the two forward external receptacles.>>>
-<<<Boeing recommends using three 90 kVA ground power sources to minimize the effect on cabin load shedding of ventilation, In Flight Entertainment, and cabin lighting.>>>
-<<<REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<5-21  5.5.3 Engine Power Requirements – Pneumatic: Model 787-8, 787-9, 787- 10 The 787 aircraft is an electric aircraft and does not have a traditional pneumatic system onboard, thus there are no ground pneumatic connections.>>>
-<<<REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<5-22  5.6 CONDITIONED AIR REQUIREMENTS 5.6.1 Conditioned Air Flow Requirements – Cooling Time: Model 787-8 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<5-23   5.6.2 Conditioned Air Flow Requirements – Cooling – Steady State (103 F Ambient Air): Model 787-8 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<5-24  5.6.3 Conditioned Air Flow Requirements – Cooling – Steady State (80 F Ambient Air): Model 787-8 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<5-25   5.6.4 Conditioned Air Flow Requirements – Heating Time: Model 787-8 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<5-26  5.6.5 Conditioned Air Flow Requirements – Heating – Steady State: Model 787-8 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<5-27   5.6.6 Conditioned Air Flow Requirements – Cooling Time: Model 787-9 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<5-28  5.6.7 Conditioned Air Flow Requirements – Cooling – Steady State (103 F Ambient Air): Model 787-9 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<5-29  5.6.8 Conditioned Air Flow Requirements – Cooling – Steady State (80 F Ambient Air): Model 787-9 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<5-30  5.6.9 Conditioned Air Flow Requirements – Heating Time: Model 787-9 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<5-31  5.6.10 Conditioned Air Flow Requirements – Heating – Steady State: Model 787-9 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<5-32   5.6.11 Conditioned Air Flow Requirements – Cooling Time: Model 787-10 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<5-33   5.6.12 Conditioned Air Flow Requirements – Cooling – Steady State (103 F Ambient Air): Model 787-10 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<5-34   5.6.13 Conditioned Air Flow Requirements – Cooling – Steady State (80 F Ambient Air): Model 787-10 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<5-35   5.6.14 Conditioned Air Flow Requirements – Heating Time: Model 787-10 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<5-36   5.6.15 Conditioned Air Flow Requirements – Heating – Steady State: Model 787-10 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<5-37   5.7 GROUND TOWING REQUIREMENTS 5.7.1 Ground Towing Requirements - English Units: Model 787-8, 787-9, 787-10 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<5-38  5.7.2 Ground Towing Requirements - Metric Units: Model 787-8, 787-9, 787-10 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<5-39  6.0 JET ENGINE WAKE AND NOISE DATA 6.1 JET ENGINE EXHAUST VELOCITIES AND TEMPERATURE This section shows exhaust velocity and temperature contours aft of the 787 airplane.>>>
-<<<The contours were calculated from a standard computer analysis using three-dimensional viscous flow equations with mixing of primary, fan, and free-stream flow.>>>
-<<<The presence of the ground plane is included in the calculations as well as engine tilt and toe-in.>>>
-<<<Mixing of flows from the engines is also calculated.>>>
-<<<The analysis does not include thermal buoyancy effects which tend to elevate the jet wake above the ground plane.>>>
-<<<The buoyancy effects are considered to be small relative to the exhaust velocity and therefore are not included.>>>
-<<<The graphs show jet wake velocity and temperature contours for representative engines.>>>
-<<<The results are valid for sea level, static, standard day conditions.>>>
-<<<The effect of wind on jet wakes is not included.>>>
-<<<There is evidence to show that a downwind or an upwind component does not simply add or subtract from the jet wake velocity, but rather carries the whole envelope in the direction of the wind.>>>
-<<<Crosswinds may carry the jet wake contour far to the side at large distances behind the airplane.>>>
-<<<It should be understood, these exhaust velocity contours reflect steady-state, at maximum taxi weight, and not transient-state exhaust velocities.>>>
-<<<A steady-state is achieved with the aircraft in a fixed location, engine running at a given thrust level and measured when the contours stop expanding and stabilize in size, which could take several seconds.>>>
-<<<The steady-state condition, therefore, is conservative.>>>
-<<<Contours shown also do not account for performance variables such as ambient temperature or field elevation.>>>
-<<<For the terminal area environment, the transient-state is a more accurate representation of the actual exhaust contours when the aircraft is in motion and encountering static air with forward or turning movement, but it is very difficult to model on a consistent basis due to aircraft weight, weather conditions, the high degree of variability in terminal and apron configurations, and intensive numerical calculations.>>>
-<<<If the contours presented here are overly restrictive for terminal operations, The Boeing Company recommends conducting an analysis of the actual exhaust contours experienced by the using aircraft at the airport.>>>
-<<<REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<6-1    6.1.1 Jet Engine Exhaust Velocity Contours – Idle Thrust / Both Engines: Model 787-8 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<6-2  6.1.2 Jet Engine Exhaust Velocity Contours - Breakaway Thrust / 0% Slope / Both Engines / MTW: Model 787-8 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<6-3  6.1.3 Jet Engine Exhaust Velocity Contours – Breakaway Thrust / 1% Slope / Both Engines / MTW: Model 787-8 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<6-4  6.1.4 Jet Engine Exhaust Velocity Contours – Breakaway Thrust / 0% Slope / Single Engine / MTW: Model 787-8 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<6-5  6.1.5 Jet Engine Exhaust Velocity Contours – Breakaway Thrust / 0% Slope / Single Engine / MLW: Model 787-8 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<6-6  6.1.6 Jet Engine Exhaust Velocity Contours – Takeoff Thrust / Both Engines: Model 787-8 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<6-7  6.1.7 Jet Engine Exhaust Temperature Contours – Idle/Breakaway Thrust: Model 787-8 Temperature contours for idle/breakaway power conditions are not shown as the maximum temperature aft of the 787-8 is predicated to be less than 100° F (38° C) for standard day conditions of 59° F (15° C).>>>
-<<<REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<6-8  6.1.8 Jet Engine Exhaust Temperature Contours – Takeoff Thrust / Both Engines: Model 787-8 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<6-9  6.1.9 Jet Engine Exhaust Velocity Contours – Idle Thrust: Model 787-9 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<6-10  6.1.10 Jet Engine Exhaust Velocity Contours – Breakaway Thrust / 0% Slope / Both Engines / MTW: Model 787-9 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<6-11  6.1.11 Jet Engine Exhaust Velocity Contours – Breakaway Thrust / 1% Slope / Both Engines / MTW: Model 787-9 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<6-12  6.1.12 Jet Engine Exhaust Velocity Contours – Breakaway Thrust / 0% Slope / Single Engine / MTW: Model 787-9 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<6-13  6.1.13 Jet Engine Exhaust Velocity Contours – Breakaway Thrust / 0% Slope / Single Engine / MLW: Model 787-9 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<6-14  6.1.14 Jet Engine Exhaust Velocity Contours – Takeoff Thrust / Both Engines: Model 787-9 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<6-15  6.1.15 Jet Engine Exhaust Temperature Contours – Idle/Breakaway Thrust: Model 787-9 Temperature contours for idle/breakaway power conditions are not shown as the maximum temperature aft of the 787-9 is predicated to be less than 100° F (38° C) for standard day conditions of 59° F (15° C).>>>
-<<<REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<6-16  6.1.16 Jet Engine Exhaust Temperature Contours – Takeoff Thrust / Both Engines: Model 787-9 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<6-17  6.1.17 Jet Engine Exhaust Velocity Contours – Idle Thrust / Both Engines: Model 787-10 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<6-18  6.1.18 Jet Engine Exhaust Velocity Contours – Breakaway Thrust / 0% Slope / Both Engines: Model 787-10 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<6-19  6.1.19 Jet Engine Exhaust Velocity Contours – Breakaway Thrust / 1% Slope / Both Engines / MTW: Model 787-10 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<6-20  6.1.20 Jet Engine Exhaust Velocity Contours – Breakaway Thrust / 0% Slope / Single Engine / MTW: Model 787-10 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<6-21  6.1.21 Jet Engine Exhaust Velocity Contours – Breakaway Thrust / 0% Slope / Single Engine / MLW: Model 787-10 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<6-22  6.1.22 Jet Engine Exhaust Velocity Contours – Takeoff Thrust / Both Engines: Model 787-10 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<6-23  6.1.23 Jet Engine Exhaust Temperature Contours – Idle/Breakaway Thrust: Model 787-10 Temperature contours for idle/breakaway power conditions are not shown as the maximum temperature aft of the 787-10 is predicated to be less than 100° F (38° C) for standard day conditions of 59° F (15° C).>>>
-<<<REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<6-24  6.1.24 Jet Engine Exhaust Temperature Contours – Takeoff Thrust / Both Engines: Model 787-10 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<6-25  6.1.25 Inlet Hazard Areas: All Models General Electric (GE) Engines RADIUS 15.0 FT IDLE THRUST BREAKAWAY THRUST 28.5 FT 63.0 FT TAKEOFF THRUST 4.6 M 8.7 M 19.2 M AFT DISTANCE 1.9 M 3.3 M 3.3 M 6.3 FT 11.0 FT 11.0 FT Rolls Royce Engines RADIUS 15.0 FT IDLE THRUST BREAKAWAY THRUST 28.5 FT 63.0 FT TAKEOFF THRUST 4.6 M 8.7 M 19.2 M AFT DISTANCE 1.3 M 3.3 M 3.3 M 4.25 FT 11.0 FT 11.0 FT REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<6-26   6.2 AIRPORT AND COMMUNITY NOISE Airport noise is of major concern to the airport and community planner.>>>
-<<<The airport is a major element in the community's transportation system and, as such, is vital to its growth.>>>
-<<<However, the airport must also be a good neighbor, and this can be accomplished only with proper planning.>>>
-<<<Since aircraft noise extends beyond the boundaries of the airport, it is vital to consider the impact on surrounding communities.>>>
-<<<Many means have been devised to provide the planner with a tool to estimate the impact of airport operations.>>>
-<<<Too often they oversimplify noise to the point where the results become erroneous.>>>
-<<<Noise is not a simple subject; therefore, there are no simple answers.>>>
-<<<The cumulative noise contour is an effective tool.>>>
-<<<However, care must be exercised to ensure that the contours, used correctly, estimate the noise resulting from aircraft operations conducted at an airport.>>>
-<<<The size and shape of the single-event contours, which are inputs into the cumulative noise contours, are dependent upon numerous factors.>>>
-<<<They include the following: 1.>>>
-<<<Operational Factors a.>>>
-<<<Aircraft Weight - Aircraft weight is dependent on distance to be traveled, en route winds, payload, and anticipated aircraft delay upon reaching the destination.>>>
-<<<b.>>>
-<<<Engine Power Settings - The rates of ascent and descent and the noise levels emitted at the source are influenced by the power setting used.>>>
-<<<c. Airport Altitude - Higher airport altitude will affect engine performance and thus can influence noise.>>>
-<<<2.>>>
-<<<Atmospheric Conditions-Sound Propagation a.>>>
-<<<Wind - With stronger headwinds, the aircraft can take off and climb more rapidly relative to the ground.>>>
-<<<Also, winds can influence the distribution of noise in surrounding communities.>>>
-<<<b.>>>
-<<<Temperature and Relative Humidity - The absorption of noise in the atmosphere along the transmission path between the aircraft and the ground observer varies with both temperature and relative humidity.>>>
-<<<3.>>>
-<<<Surface Condition-Shielding, Extra Ground Attenuation (EGA) a. Terrain - If the ground slopes down after takeoff or up before landing, noise will be reduced since the aircraft will be at a higher altitude above ground.>>>
-<<<Additionally, hills, shrubs, trees, and large buildings can act as sound buffers.>>>
-<<<All these factors can alter the shape and size of the contours appreciably.>>>
-<<<To demonstrate the effect of some of these factors, estimated noise level contours for two different REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<6-27  operating conditions are shown below.>>>
-<<<These contours reflect a given noise level upon a ground level plane at runway elevation.>>>
-<<<Condition 1 Landing Takeoff Maximum Structural Landing Maximum Gross Takeoff Weight 10-knot Headwind 3° Approach 84 °F Humidity 15% Weight Zero Wind 84 °F Humidity 15% Condition 2 Landing 85% of Maximum Structural Landing Weight 10-knot Headwind 3° Approach 59 °F Humidity 70% Takeoff 80% of Maximum Gross Takeoff Weight 10-knot Headwind 59 °F Humidity 70% As indicated from these data, the contour size varies substantially with operating and atmospheric conditions.>>>
-<<<Most aircraft operations are, of course, conducted at less than maximum design weights because average flight distances are much shorter than maximum aircraft range capability and average load factors are less than 100%.>>>
-<<<Therefore, in developing cumulative contours for planning purposes, it is recommended that the airlines serving a particular city be contacted to provide operational information.>>>
-<<<In addition, there are no universally accepted methods for developing aircraft noise contours or for relating the acceptability of specific zones to specific land uses.>>>
-<<<It is REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<6-28   therefore expected that noise contour data for particular aircraft and the impact assessment methodology will be changing.>>>
-<<<To ensure that the best currently available information of this type is used in any planning study, it is recommended that it be obtained directly from the Office of Environmental Quality in the Federal Aviation Administration in Washington, D.C.>>>
-<<<It should be noted that the contours shown herein are only for illustrating the impact of operating and atmospheric conditions and do not represent the single-event contour of the family of aircraft described in this document.>>>
-<<<It is expected that the cumulative contours will be developed as required by planners using the data and methodology applicable to their specific study.>>>
-<<<REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<6-29  7.0 PAVEMENT DATA 7.1 GENERAL INFORMATION A brief description of the pavement charts that follow will help in their use for airport planning.>>>
-<<<Each airplane configuration is depicted with a minimum range of five loads imposed on the main landing gear to aid in interpolation between the discrete values shown.>>>
-<<<All curves for any single chart represent data based on rated loads and tire pressures considered normal and acceptable by current aircraft tire manufacturer's standards.>>>
-<<<Tire pressures, where specifically designated on tables and charts, are at values obtained under loaded conditions as certificated for commercial use.>>>
-<<<Section 7.2 presents basic data on the landing gear footprint configuration, maximum design taxi loads, and tire sizes and pressures.>>>
-<<<Maximum pavement loads for certain critical conditions at the tire-to-ground interface are shown in Section 7.3, with the tires having equal loads on the struts.>>>
-<<<Pavement requirements for commercial airplanes are customarily derived from the static analysis of loads imposed on the main landing gear struts.>>>
-<<<The charts in Section 7.4 are provided in order to determine these loads throughout the stability limits of the airplane at rest on the pavement.>>>
-<<<These main landing gear loads are used as the point of entry to the pavement design charts, interpolating load values where necessary.>>>
-<<<The flexible pavement design curves based on the US Army Corp of Engineers Method and the rigid pavement curves based on the Portland Cement Association Design Method are no longer provided in Sections 7.5 and 7.7.>>>
-<<<Refer to the State's design standards for pavement design requirements.>>>
-<<<For US airports, refer to FAA Advisory Circular (AC) 150/5320-6, "Pavement Design" and pavement design program FAARFIELD for flexible and rigid pavement design requirements.>>>
-<<<The Load Classification Number (LCN) curves are no longer provided in section 7.6 and 7.8 since the LCN system for reporting pavement strength is obsolete, being replaced by the ICAO recommended ACN/PCN system in 1983.>>>
-<<<For questions regarding the LCN system contact Boeing Airport Operations Engineering: AirportCompatibility@boeing.com The ACN/PCN system (Section 7.10) as referenced in ICAO Annex 14, "Aerodromes," 8th Edition, July 2018, provides a standardized international airplane/pavement rating system replacing the various S, T, TT, LCN, AUW, ISWL, etc., rating systems used throughout the world.>>>
-<<<ACN is the Aircraft Classification Number and PCN is the Pavement Classification Number.>>>
-<<<An aircraft having an ACN equal to or less than the PCN can operate on the pavement subject to any limitation on the tire pressure.>>>
-<<<Numerically, the ACN is two times the derived single-wheel load expressed in thousands of kilograms, where the derived single wheel load is defined as the load on a single tire inflated to 181 psi (1.25 MPa) that would have the same pavement requirements as the aircraft.>>>
-<<<REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<7-1  Computationally, the ACN/PCN system uses the PCA program PDILB for rigid pavements and S-77-1 for flexible pavements to calculate ACN values.>>>
-<<<The ACR-PCR system (Section 7.11) follows the proposed amendment to ICAO Annex 14 replacing the current ACN-PCN system.>>>
-<<<ACR is the Aircraft Classification Rating and PCR is the Pavement Classification Rating.>>>
-<<<An aircraft having an ACR equal to or less than the PCR can operate on the pavement subject to any limitation on the tire pressure.>>>
-<<<Numerically, the ACR is two times the derived single-wheel load expressed in hundreds of kilograms, where the derived single wheel load is defined as the load on a single tire inflated to 218 psi (1.5 MPa) that would have the same pavement requirements as the aircraft.>>>
-<<<The method of pavement evaluation is left up to the airport with the results of their evaluation presented as follows: PAVEMENT TYPE TIRE PRESSURE CATGORY EVALUATION METHOD SUBGRADE CATEGORY PCR R = Rigid A = High W = No Limit T = Technical F = Flexible B = Medium X = To 254 psi (1.75 MPa) U = Using Aircraft C = Low Y = To 181 psi (1.25 MPa) D = Ultra Low Z = To 73 psi (0.5 MPa) ACN values for subgrade categories: flexible pavements are calculated for the following four Code A - High Strength - CBR 15 Code B - Medium Strength - CBR 10 Code C - Low Strength - CBR 6 Code D - Ultra Low Strength - CBR 3 ACN values for rigid pavements are calculated for the following four subgrade categories: Code A - High Strength, k = 552.6 pci (150 MN/m3) Code B - Medium Strength, k = 294.7 pci (80 MN/m3) Code C - Low Strength, k = 147.4 pci (40 MN/m3) Code D - Ultra Low Strength, k = 73.7 pci (20 MN/m3) ACR values at any mass on rigid and flexible pavements are calculated for the following four subgrade categories: REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<7-2     Code A - High Strength - Subgrade Modulus, E = 200 MPa (29,008 psi) Code B - Medium Strength - Subgrade Modulus, E = 120 MPa (17,405 psi) Code C - Low Strength - Subgrade Modulus, E = 80 MPa (11,603 psi) Code D - Ultra Low Strength - Subgrade Modulus, E = 50 MPa (7,252 psi) REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<7-3  7.2 LANDING GEAR FOOTPRINT: MODEL 787-8, 787-9, 787-10 MAXIMUM DESIGN TAXI WEIGHT PERCENT OF WEIGHT ON MAIN GEAR NOSE GEAR TIRE SIZE NOSE GEAR TIRE PRESSURE MAIN GEAR TIRE SIZE MAIN GEAR TIRE PRESSURE LB KG % IN.>>>
-<<<PSI MPa IN.>>>
-<<<PSI MPa UNITS 787-8 503,500 228,383 787-9 563,000 255,372 787-10 561,500 254,692 SEE SECTION 7.4 40 x 16.0 R16 26PR 187 1.29 50 x 20.0 R22 34 PR 228 1.57 182 1.25 182 1.25 54 x 21.0 R23 38 PR 229 1.58 224 1.54 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<7-4   7.3 MAXIMUM PAVEMENT LOADS: MODEL 787-8, 787-9, 787-10 VNG = MAXIMUM VERTICAL NOSE GEAR GROUND LOAD AT MOST FORWARD CENTER OF GRAVITY VMG = MAXIMUM VERTICAL MAIN GEAR GROUND LOAD AT MOST AFT CENTER OF GRAVITY H = MAXIMUM HORIZONTAL GROUND LOAD FROM BRAKING NOTE: ALL LOADS CALCULATED USING AIRPLANE MAXIMUM DESIGN TAXI WEIGHT AIRPLANE MODEL UNIT VNG MAX DESIGN TAXI WEIGHT STATIC AT MOST FWD C.G.>>>
-<<<STATIC + BRAKING 10 FT/SEC2 DECEL VMG PER STRUT AT MAX LOAD AT STATIC AFT C.G.>>>
-<<<STEADY BRAKING 10 FT/SEC2 DECEL H PER STRUT 787-8 787-9 787-10 lb kg lb kg lb kg 503,500 54,716 85,086 229,798 78,194 228,383 24,819 563,000 51,369 255,372 23,301 561,500 42,193 254,692 19,138 38,594 80,601 36,560 68,209 30,939 104,234 35,468 259,574 117,741 261,787 118,745 87,434 39,659 87,201 39,554 AT INSTANTANEOUS BRAKING (µ = 0.8) 183,838 83,388 207,659 94,193 209,430 94,996 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<7-5    7.4 LANDING GEAR LOADING ON PAVEMENT 7.4.1 Landing Gear Loading on Pavement: Model 787-8 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<7-6  7.4.2 Landing Gear Loading on Pavement: Model 787-9 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<7-7  7.4.3 Landing Gear Loading on Pavement: Model 787-10 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<7-8  7.5 FLEXIBLE PAVEMENT REQUIREMENTS - FAA DESIGN METHOD For the flexible pavement design refer to the FAA AC 150/5320-6 "Airport Pavement Design and Evaluation" and pavement design program FAARFIELD.>>>
-<<<Both are available on the FAA website: FAA AC 150/5320-6F: https://www.faa.gov/airports/resources/advisory_circulars/ FAARFIELD: https://www.faa.gov/airports/engineering/design_software/ REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<7-9  7.6 FLEXIBLE PAVEMENT REQUIREMENTS - LCN CONVERSION The Load Classification Number (LCN) curves are no longer provided in section 7.6 and 7.8 since the LCN system for reporting pavement strength is obsolete, being replaced by the ICAO recommended ACN/PCN system in 1983.>>>
-<<<For questions regarding the LCN system contact Boeing Airport Compatibility Engineering: AirportCompatibility@boeing.com REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<7-10  7.7 RIGID PAVEMENT REQUIREMENTS - PORTLAND CEMENT ASSOCIATION DESIGN METHOD The rigid pavement requirements based on the Portland Cement Association method are no longer provided.>>>
-<<<REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<7-11  7.8 RIGID PAVEMENT REQUIREMENTS - LCN CONVERSION The Load Classification Number (LCN) curves are no longer provided in section 7.6 and 7.8 since the LCN system for reporting pavement strength is obsolete, being replaced by the ICAO recommended ACN/PCN system in 1983.>>>
-<<<For questions regarding the LCN system contact Boeing Airport Compatibility Engineering: AirportCompatibility@boeing.com REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<7-12  7.9 RIGID PAVEMENT REQUIREMENTS - FAA DESIGN METHOD For the rigid pavement design refer to the FAA AC 150/5320-6 “Airport Pavement Design and Evaluation” and pavement design program FAARFIELD.>>>
-<<<Both are available on the FAA website: FAA AC 150/5320-6: https://www.faa.gov/airports/resources/advisory_circulars/ FAARFIELD: https://www.faa.gov/airports/engineering/design_software/ REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<7-13  7.10 ACN/PCN REPORTING SYSTEM - FLEXIBLE AND RIGID PAVEMENTS To determine the ACN of an aircraft on flexible or rigid pavement, both the aircraft gross weight and the subgrade strength category must be known.>>>
-<<<On the chart in section 7.10.1, for a 787-8 aircraft with gross weight of 320,000 lb on a (Code A), the flexible pavement ACN is 34.>>>
-<<<Referring to 7.10.4, the same aircraft on a high strength subgrade rigid pavement has an ACN of 34.>>>
-<<<The following table provides ACN data in tabular format similar to the one used by ICAO in the “Aerodrome Design Manual Part 3, Pavements.” If the ACN for an intermediate weight between maximum taxi weight and minimum weight of the aircraft is required, Figures 7.10.1 through 7.10.6 should be consulted.>>>
-<<<Linear interpolation of the ACN values between two weight points will provide an approximate ACN value.>>>
-<<<ACN FOR RIGID PAVEMENT SUBGRADES – pci (MN/m3) ACN FOR FLEXIBLE PAVEMENT SUBGRADES - CBR T F A R C R A I E P Y T MAXIMUM TAXI WEIGHT MINIMUM WEIGHT *[1] LB (KG) LOAD ON ONE MAIN GEAR LEG (%) TIRE PRESSURE PSI (MPa) H G H I ) 0 5 1 ( 0 5 5 I M U D E M ) 0 8 ( 0 0 3 W O L ) 0 4 ( 0 5 1 787-8 787-9 787-10 503,500 (228,383) 250,000 (113,398) 563,000 (255,373) 250,000 (113,398) 561,500 (254,692) 250,000 (113,398) 45.64 228 (1.57) 46.11 229 (1.58) 46.63 224 (1.54) 61 26 65 25 66 25 72 28 77 27 77 27 84 32 90 30 91 31 *[1] Minimum weight used solely as a baseline for ACN curve generation.>>>
-<<<W O L A R T L U ) 0 2 ( 5 7 96 37 104 35 105 35 H G H I 5 1 I M U D E M 0 1 W O L 6 60 25 66 25 67 25 66 27 73 26 73 26 81 30 88 28 89 29 W O L A R T L U 3 106 39 118 35 119 36 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<7-14            7.10.1 Aircraft Classification Number - Flexible Pavement: Model 787-8 NOTE: The minimum weight shown on the chart is solely for the ACN curve generation.>>>
-<<<REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<7-15  7.10.2 Aircraft Classification Number - Flexible Pavement: Model 787-9 NOTE: The minimum weight shown on the chart is solely for the ACN curve generation.>>>
-<<<REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<7-16  7.10.3 Aircraft Classification Number - Flexible Pavement: Model 787-10 NOTE: The minimum weight shown on the chart is solely for the ACN curve generation.>>>
-<<<REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<7-17  7.10.4 Aircraft Classification Number - Rigid Pavement: Model 787-8 NOTE: The minimum weight shown on the chart is solely for the ACN curve generation.>>>
-<<<REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<7-18  7.10.5 Aircraft Classification Number – Rigid Pavement: Model 787-9 NOTE: The minimum weight shown on the chart is solely for the ACN curve generation.>>>
-<<<REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<7-19  7.10.6 Aircraft Classification Number – Rigid Pavement: Model 787-10 NOTE: The minimum weight shown on the chart is solely for the ACN curve generation.>>>
-<<<REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<7-20  7.11 ACR/PCR REPORTING SYSTEM - FLEXIBLE AND RIGID PAVEMENTS To determine the ACR of an aircraft on flexible or rigid pavement, both the aircraft gross weight and the subgrade strength category must be known.>>>
-<<<In the chart in Section 7.11.1, for a 787-8 aircraft with gross weight of 600,000 lb and high subgrade strength, the flexible pavement ACR is 697.>>>
-<<<In Section 7.11.4, for the same gross weight and subgrade strength, the rigid pavement ACR is 928.>>>
-<<<The following table provides ACR data in tabular format.>>>
-<<<If the ACR for an intermediate weight between maximum taxi weight and the empty weight of the aircraft is required, Figures 7.11.1 through 7.11.6 should be consulted.>>>
-<<<ACR FOR RIGID PAVEMENT SUBGRADES ACR FOR FLEXIBLE PAVEMENT SUBGRADES T F A R C R A I E P Y T MAXIMUM TAXI WEIGHT MINIMUM WEIGHT *[1] LB (KG) LOAD ON ONE MAIN GEAR LEG (%) TIRE PRESSURE PSI (MPa) H G H I a P M 0 0 2 = E I M U D E M a P M 0 2 1 = E W O L a P M 0 8 = E 787-8 787-9 787-10 503,500 (228,383) 250,000 (113,398) 563,000 (255,373) 250,000 (113,398) 561,500 (254,692) 250,000 (113,398) 45.64 228 (1.57) 46.11 229 (1.58) 46.63 224 (1.54) 670 270 740 260 740 260 790 290 860 280 870 280 870 320 960 310 970 310 *[1] Minimum weight used solely as a baseline for ACR curve generation.>>>
-<<<W O L A R T L U a P M 0 5 = E 970 360 1070 340 H G H I a P M 0 0 2 = E I M U D E M a P M 0 2 1 = E W O L a P M 0 8 = E W O L A R T L U a P M 0 5 = E 550 270 620 270 590 270 660 270 660 270 690 280 750 280 760 280 910 310 970 290 990 300 1080 620 350 270 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<7-21                   7.11.1 Aircraft Classification Rating- Flexible Pavement: Model 787-8 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<7-22  7.11.2 Aircraft Classification Rating- Flexible Pavement: Model 787-9 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<7-23  7.11.3 Aircraft Classification Rating- Flexible Pavement: Model 787-10 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<7-24  7.11.4 Aircraft Classification Rating- Rigid Pavement: Model 787-8 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<7-25  7.11.5 Aircraft Classification Rating- Rigid Pavement: Model 787-9 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<7-26  7.11.6 Aircraft Classification Rating- Rigid Pavement: Model 787-10 REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<7-27  8.0 FUTURE 787 DERIVATIVE AIRPLANES Boeing's philosophy is to evaluate the derivative potential of its airplanes to provide capabilities that maximize value to our customers.>>>
-<<<Decisions to design and manufacture future derivatives of an airplane depend on many considerations, including customer requirements.>>>
-<<<Along with many other parameters, airport facilities are considered during the development of any future airplane.>>>
-<<<REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<8-1       9.0 SCALED 787 DRAWINGS The drawings in the following pages show airplane plan view drawings, drawn to approximate scale as noted.>>>
-<<<The drawings may not come out to exact scale when printed or copied from this document.>>>
-<<<Printing scale should be adjusted when attempting to reproduce these drawings.>>>
-<<<Three-view drawing files of the 787, along with other Boeing airplane models, can be downloaded from the following website: http://www.boeing.com/airports REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<9-1  9.1 MODEL 787-8 9.1.1 Scaled Drawings – 1:500: Model 787-8 NOTE: WHEN PRINTING THIS DRAWING, MAKE SURE TO ADJUST FOR PROPER SCALING REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<9-2  9.1.2 Scaled Drawings – 1:500: Model 787-8 NOTE: WHEN PRINTING THIS DRAWING, MAKE SURE TO ADJUST FOR PROPER SCALING REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<9-3  9.2 MODEL 787-9 9.2.1 Scaled Drawing – 1:500: Model 787-9 NOTE: WHEN PRINTING THIS DRAWING, MAKE SURE TO ADJUST FOR PROPER SCALING REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<9-4  9.2.2 Scaled Drawing – 1:500: Model 787-9 NOTE: WHEN PRINTING THIS DRAWING, MAKE SURE TO ADJUST FOR PROPER SCALING REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<9-5   9.3 MODEL 787-10 9.3.1 Scaled Drawings – 1:500: Model 787-10 NOTE: WHEN PRINTING THIS DRAWING, MAKE SURE TO ADJUST FOR PROPER SCALING REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<9-6  9.3.2 Scaled Drawings – 1:500: Model 787-10 NOTE: WHEN PRINTING THIS DRAWING, MAKE SURE TO ADJUST FOR PROPER SCALING REV O D6-58333 February 2023 Not Subject to EAR or ITAR.>>>
-<<<Copyright © 2023 Boeing.>>>
-<<<All Rights Reserved.>>>
-<<<9-7>>>

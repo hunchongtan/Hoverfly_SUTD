@@ -1,9 +1,0 @@
-,fuselage,wings,tailplanes,engines,fasteners,nose contour,raked wingtips,engine nacelles
-fuselage,X,Yes,Yes,Yes,Yes,Yes,No,Yes
-wings,Yes,X,No,No,Yes,No,No,Yes
-tailplanes,Yes,Yes,X,No,Yes,No,No,No
-engines,Yes,No,No,X,Yes,No,No,No
-fasteners,Yes,Yes,No,Yes,X,No,No,Yes
-nose contour,No,Unsure,No,No,No,X,No,No
-raked wingtips,No,No,No,No,No,No,X,No
-engine nacelles,Yes,No,No,Yes,Yes,No,No,X
