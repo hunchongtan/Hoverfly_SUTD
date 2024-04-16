@@ -1,0 +1,18 @@
+,wing,centre section,outer panels,flaps and ailerons,other wing features,fuselage,nose section,forward fuselage,centre fuselage,aft fuselage,tail section,empennage,horizontal stabiliser and elevator,vertical stabiliser and rudder,engine installation,nacelles and pylons,landing gear
+wing,X,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Unsure,No
+centre section,Yes,X,No,No,No,Yes,No,Yes,No,No,No,No,No,No,Unsure,No,No
+outer panels,Yes,No,X,Unsure,No,Unsure,No,Yes,Yes,No,No,Unsure,No,Unsure,Unsure,No,No
+flaps and ailerons,Yes,Unsure,Unsure,X,No,Unsure,Unsure,Unsure,Unsure,Unsure,Unsure,Unsure,No,No,Unsure,No,Unsure
+other wing features,Yes,Yes,Yes,Yes,X,Yes,No,No,No,No,No,No,No,No,No,No,No
+fuselage,No,Yes,Unsure,Unsure,No,X,No,Unsure,No,No,No,No,No,No,No,No,No
+nose section,No,Unsure,No,No,No,Yes,X,Yes,Yes,No,Unsure,No,Unsure,No,Unsure,Unsure,Unsure
+forward fuselage,Unsure,Unsure,Yes,Unsure,No,Unsure,Yes,X,Unsure,No,No,Unsure,No,No,No,Unsure,Yes
+centre fuselage,No,No,No,Unsure,No,No,Unsure,No,X,No,No,Unsure,Unsure,No,No,Unsure,No
+aft fuselage,No,No,No,Unsure,No,No,No,No,No,X,No,Unsure,No,No,Unsure,No,No
+tail section,No,Unsure,No,No,No,Yes,No,No,No,Yes,X,Yes,No,Yes,No,No,No
+empennage,No,Yes,No,No,No,Unsure,No,Unsure,No,Yes,Yes,X,Yes,No,No,Unsure,Unsure
+horizontal stabiliser and elevator,No,No,Unsure,No,No,No,No,No,No,No,Yes,Yes,X,No,No,No,No
+vertical stabiliser and rudder,No,No,Unsure,No,No,No,No,No,No,No,No,No,No,X,No,No,Unsure
+engine installation,No,Unsure,Unsure,Unsure,Unsure,Yes,Unsure,No,No,Unsure,No,No,No,No,X,Yes,No
+nacelles and pylons,Unsure,Unsure,Unsure,Unsure,Unsure,Unsure,No,Unsure,Unsure,Unsure,Unsure,Unsure,No,No,Yes,X,No
+landing gear,No,No,No,Unsure,No,No,No,No,No,No,No,No,Unsure,Unsure,No,No,X

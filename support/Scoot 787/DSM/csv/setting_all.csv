@@ -1,0 +1,14 @@
+,Twin-engine,Environmental performance,Passenger-pleasing features,Medium- to long-range flights,Dual-class configuration,Inflight Service,Inflight Entertainment,Meal Service,Seat,Aircraft Cleanliness,Inlet Hazard Areas,ACR Information,Ground clearances
+Twin-engine,X,Unsure,Unsure,Unsure,No,Unsure,Unsure,Unsure,Unsure,Unsure,Unsure,Unsure,Unsure
+Environmental performance,Unsure,X,No,Yes,Unsure,No,Unsure,Unsure,Unsure,No,Unsure,Unsure,Unsure
+Passenger-pleasing features,Unsure,No,X,Yes,Unsure,Yes,No,No,No,No,No,Unsure,Unsure
+Medium- to long-range flights,Unsure,Unsure,No,X,No,No,No,No,Unsure,Unsure,Unsure,Unsure,Unsure
+Dual-class configuration,No,Yes,Unsure,Unsure,X,Unsure,No,No,Unsure,Unsure,Unsure,Yes,No
+Inflight Service,Unsure,No,Unsure,No,Unsure,X,No,No,Unsure,No,Unsure,No,Unsure
+Inflight Entertainment,Unsure,No,No,Unsure,No,No,X,No,No,No,Unsure,Unsure,No
+Meal Service,Unsure,Unsure,No,Unsure,Unsure,No,No,X,Unsure,No,No,Unsure,Unsure
+Seat,Unsure,No,No,Unsure,Unsure,No,No,Unsure,X,Unsure,Unsure,Unsure,No
+Aircraft Cleanliness,No,Yes,Unsure,Unsure,Unsure,No,No,No,Unsure,X,Unsure,No,No
+Inlet Hazard Areas,Unsure,Unsure,No,Unsure,Unsure,Unsure,Unsure,Unsure,Unsure,Unsure,X,Unsure,Yes
+ACR Information,Unsure,Yes,Unsure,Unsure,Unsure,Unsure,Unsure,Unsure,Unsure,No,Unsure,X,Unsure
+Ground clearances,Unsure,Yes,No,No,Unsure,Unsure,Unsure,Unsure,No,Unsure,No,Unsure,X

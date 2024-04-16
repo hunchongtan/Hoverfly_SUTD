@@ -1,0 +1,11 @@
+,Wings,Fuselage,Engines,Tail,Cockpit,Landing Gear,Windows,Doors,Interior Cabin,Winglets
+Wings,X,No,No,No,No,No,No,Unsure,No,No
+Fuselage,No,X,No,No,No,No,Yes,No,No,Unsure
+Engines,No,No,X,Unsure,Unsure,No,No,Unsure,Unsure,No
+Tail,No,No,Unsure,X,Unsure,No,Unsure,Unsure,Unsure,Unsure
+Cockpit,No,No,Unsure,Unsure,X,Unsure,Yes,No,Unsure,Unsure
+Landing Gear,No,No,Unsure,No,No,X,Unsure,No,No,No
+Windows,No,Yes,Unsure,Unsure,Yes,No,X,Unsure,Unsure,No
+Doors,Unsure,Yes,Unsure,Unsure,No,No,No,X,Unsure,Unsure
+Interior Cabin,No,Yes,No,Unsure,Unsure,No,Unsure,Unsure,X,Unsure
+Winglets,No,No,No,Unsure,No,Unsure,Unsure,Unsure,Unsure,X

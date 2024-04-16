@@ -1,0 +1,6 @@
+,Windows,Overhead bins,Seats,LED lights,Aircraft cleanliness
+Windows,X,Unsure,No,Unsure,No
+Overhead bins,Unsure,X,No,Unsure,Unsure
+Seats,No,No,X,No,Unsure
+LED lights,Unsure,Unsure,Unsure,X,Unsure
+Aircraft cleanliness,Unsure,Unsure,Unsure,No,X

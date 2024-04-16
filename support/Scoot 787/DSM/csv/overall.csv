@@ -1,0 +1,20 @@
+,Cabin Lights,Overhead Bin,Cabin Window,Seat,Door,Forward Fuselage,Centre Fuselage,Rear Fuselage,Wing,Wingtip,Flaps and Ailerons,Tail Fin,Vertical Stabilizer and Rudder,Horizontal Stabilizer and Elevator,Engine,Engine Nacelles,Landing Gear,Battery,Cockpit
+Cabin Lights,X,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Overhead Bin,No,X,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Cabin Window,No,No,X,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Seat,No,No,No,X,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Door,No,No,No,No,X,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Forward Fuselage,No,No,No,No,Yes,X,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,Yes
+Centre Fuselage,No,No,Yes,Yes,Yes,Yes,X,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+Rear Fuselage,No,No,No,No,No,Yes,Yes,X,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+Wing,No,No,No,No,No,Yes,Yes,Yes,X,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No
+Wingtip,No,No,No,No,No,No,Yes,No,Yes,X,No,No,No,No,No,No,No,No,No
+Flaps and Ailerons,No,No,No,No,No,No,No,No,No,No,X,No,No,No,No,No,No,No,Yes
+Tail Fin,No,No,No,No,No,Yes,Yes,Yes,No,No,No,X,Yes,Yes,No,No,No,No,Yes
+Vertical Stabilizer and Rudder,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,X,No,No,No,No,No,Yes
+Horizontal Stabilizer and Elevator,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,X,No,No,No,No,Yes
+Engine,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,X,Yes,No,No,No
+Engine Nacelles,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,Yes,X,No,No,No
+Landing Gear,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,X,No,No
+Battery,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,X,No
+Cockpit,No,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,X
