@@ -10,6 +10,7 @@ The clear design workflow is as such:
 4. Finding Top Words for Data Analysis
 5. Identification of Design Opportunities with Classified Sentiment Analysis
 6. Design Justification with Design Structure Matrix
+
 The notebooks are meant to be modular and replicable for any product of the user's choice.
 
 ## Setup Guide
