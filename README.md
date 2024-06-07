@@ -1,5 +1,7 @@
 # [AID Project 2] Modular AI-powered Workflow for Identification of Design Opportunities
 
+Attachments: <a href="https://drive.google.com/file/d/19BfR8KP5H9ZgINjIBLtVTuFUvUDm9AmV/view?usp=sharing">Report</a> | <a href="https://drive.google.com/file/d/1ekseudex5dNuzZgDrZGPnDmy0Faf7Z2P/view?usp=sharing">Slide Deck</a>
+
 ## Description
 As part of SUTD DAI pillar's 60.002 AI applications in Design module, we are tasked to identify opportunities for design improvements. We are assigned to use data-driven text analytics and/or image processing to identify design opportunities. We are advised to focus on a specific product and conduct benchmarking with competitors whenever appropriate. \
 Our end result is a **series of Jupyter notebooks with a clear AI workflow for Identification of Design Opportunities**. \
