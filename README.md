@@ -1,9 +1,24 @@
-# [AID Project 2] Modular AI-powered Workflow for Identification of Design Opportunities
+> Author's Note: This repository has been edited to combine the efforts of 2 modules: 60.003 Product Design Studio and 60.002 AI applications in Design.
+
+# Hoverfly: Industry Project with Scoot Airlines
+<img src="https://github.com/user-attachments/assets/cf8b3a28-2bbc-434b-adeb-99d018d9fe1e" width="450" />
+
+## Part 1: Hoverfly (Product) - smart baggage scale
+
+### Description
+Airlines like Scoot have always faced issues with excessive hand-carry baggage among their customers. As part of SUTD DAI pillar's 60.003 Product Design Studio, we are tasked to **design a means to prevent late detection of excessive hand carry baggage so as to reduce disruptions in boarding procedures.** \
+Our solution Hoverfly is equipped with an Intel RealSense 3D camera and load sensors. Hoverfly can accurately measure weight and dimensions, ensuring early detection of oversized carry-ons at the boarding gate. \
+From ideation to final prototyping, the process of product design is documented in the slide deck linked below. \
+Due to NDA restrictions, we are unable to provide the relevant code documentation.
+
+Attachments: <a href="https://drive.google.com/file/d/109IAcuBEuiMwqJvlES0tC23mJ7c9B4r4/view?usp=drive_link">Slide Deck</a>
+
+## Part 2: Modular AI-powered Workflow for Identification of Design Opportunities
 
 Attachments: <a href="https://drive.google.com/file/d/19BfR8KP5H9ZgINjIBLtVTuFUvUDm9AmV/view?usp=sharing">Report</a> | <a href="https://drive.google.com/file/d/1ekseudex5dNuzZgDrZGPnDmy0Faf7Z2P/view?usp=sharing">Slide Deck</a>
 
-## Description
-As part of SUTD DAI pillar's 60.002 AI applications in Design module, we are tasked to identify opportunities for design improvements. We are assigned to use data-driven text analytics and/or image processing to identify design opportunities. We are advised to focus on a specific product and conduct benchmarking with competitors whenever appropriate. \
+### Description
+As part of SUTD DAI pillar's 60.002 AI applications in Design module, we are tasked to **identify opportunities for design improvements**. We are assigned to use data-driven text analytics and/or image processing to identify design opportunities. We are advised to focus on a specific product and conduct benchmarking with competitors whenever appropriate. \
 Our end result is a **series of Jupyter notebooks with a clear AI workflow for Identification of Design Opportunities**. \
 The clear design workflow is as such:
 1. Initial Text Query with ChatGPT
@@ -13,11 +28,11 @@ The clear design workflow is as such:
 5. Identification of Design Opportunities with Classified Sentiment Analysis
 6. Design Justification with Design Structure Matrix
 
-The notebooks are meant to be modular and replicable for any product of the user's choice.
+The notebooks are meant to be modular and replicable for any product of the user's choice. To link back to our 60.003 research, we chose to identify opportunities for Scoot's Boeing 787s.
 
-## Setup Guide
+### Setup Guide
 
-### Installation
+#### Installation
 Step 1: Clone the repo
 ```
 git clone https://github.com/hunchongtan/AID_Project_2.git
@@ -66,21 +81,21 @@ Name: any_name_for_your_app, Select script, description: any_description, about 
 <br>
 <br>
 
-### Data Selection
+#### Data Selection
 Working with Sample Data: \
 If you wish to verify with sample data (Author was exploring for **Scoot 787**), please copy the *support* and *others* folders in sample_data folder to the main folder.
 
 Working with own Data: \
 If you wish to try out on a different product, remember to clear all outputs in the jupyter notebooks before running all codes.
 
-### Run the Notebooks
+#### Run the Notebooks
 1. Follow the instructions in the jupyter notebooks.
 2. Edit the data in all the TO DO SECTIONs.
 3. Run the codes without editing in RUN AS INTENDED (DO NOT CHANGE ANYTHING.) sections.
 4. Have fun learning the workflow!
 
-## Acknowledgements
-Our work is made possible with the help of Professor Edwin Koh's AID lectures and his <a href="https://arxiv.org/ftp/arxiv/papers/2312/2312.04134.pdf">research paper on LLM-generated DSMs</a>. \
+### Acknowledgements
+Our work is made possible with the help of DAI professors and Professor Edwin Koh's <a href="https://arxiv.org/ftp/arxiv/papers/2312/2312.04134.pdf">research paper on LLM-generated DSMs</a>. \
 Special thanks to the team behind this project:
 - Delphine Sim Yingting (1006986)
 - Tan Hun Chong (1006643)
